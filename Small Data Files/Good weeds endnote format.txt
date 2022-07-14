@@ -1,0 +1,1817 @@
+﻿%0 Journal Article
+%A Abbas, Tasawar
+%A Zahir, Zahir A.
+%A Naveed, Muhammad
+%A Kremer, Robert J.
+%D 2018
+%T Limitations of Existing Weed Control Practices Necessitate Development of Alternative Techniques Based on Biological Approaches
+%B Advances in Agronomy, Vol 147
+%P 239-280
+%! Limitations of Existing Weed Control Practices Necessitate Development of Alternative Techniques Based on Biological Approaches
+%@ 978-0-12-815283-6(P)
+%R http://dx.doi.org/10.1016/bs.agron.2017.10.005
+%K Toxin
+Soil Pollutant
+Pollutant
+Herbicide
+Pesticide
+Methods and Techniques
+Pesticides
+Agronomy
+Agriculture
+Applied and Field Techniques
+Crop
+Common
+Angiospermae
+Species
+Compositae
+Leguminosae
+Biological Control Agent
+Lepidoptera
+Phycomycetes
+Public health - Air, water and soil pollution
+Agronomy - Miscellaneous and mixed crops
+Pest control: general, pesticides and herbicides
+Invertebrata: comparative, experimental morphology, physiology and pathology - Insecta: physiology
+Spermatophyta
+Plantae
+Angiosperms
+Plants
+Spermatophytes
+Vascular Plants
+Dicotyledones
+Dicots
+Insecta
+Arthropoda
+Invertebrata
+Animalia
+Animals
+Arthropods
+Insects
+Invertebrates
+Fungi
+Microorganisms
+Nonvascular Plants
+%X Weeds constitute major losses to crops which necessitates the use of control practices. In conventional management systems, weeds are typically controlled using manual, mechanical, and chemical methods. Manual weeding is considered as most efficient control but its use has reduced due to shortage of labor for crop production on large scale and growing cost of labor. Mechanical weeding is suitable only for a limited number of crops and sowing methods. Additionally, requirements for multiple operations and adverse environmental impacts have limited use of mechanical weeding. Reliance on herbicides has increased over time due to convenience in application and quick response. Continuous use of herbicides has disturbed weed ecology, biodiversity, environment, and human health. They have caused herbicide resistance in weeds, shift in weed flora, and yield reduction of sensitive crops. Herbicide drift, persistence in soil, contamination of waterbodies, and accumulation of residues in plants have exposed all life forms to their hazardous effects. They are held responsible for many health disorders in human beings. So many challenges have been posed by chemical herbicides that the cost of weed control and limitations of other control methods now necessitate development of alternative techniques for at least integration into existing weed management practices. These alternative techniques may be based on biological approaches, i.e., inoculative biological control, inundative biological control, and allelopathy. A detailed review of limitations of currently used control methods and the feasibility of development of alternative techniques especially opportunities offered by rhizobacteria for weed management are discussed in this chapter.
+%Z [Author]
+[Author, Reprint Author; E-mail: zazahir@yahoo.com]
+%U http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=biop44&NEWS=N&AN=PREV201800413951
+
+%0 Journal Article
+%A Auld, B. A.
+%D 1970
+%T Eupatorium weed species in Australia
+%B PANS
+%V 16
+%N 1
+%P 82-86
+%! Eupatorium weed species in Australia
+%K 2,4,5-T
+2,4-D
+biological control
+fenoprop
+flowering
+fruits
+herbicides
+introduced species
+invasive species
+natural enemies
+pastures
+pesticides
+ploughing
+slopes
+sodium chlorate
+tropics
+weeds
+wind
+%X Out of 7 species of Eupatorium in Australia, E. adenophorum (crofton weed) and E. riparium (mist-flower) are regarded as weeds. They are most troublesome on the east coast; E. adenophorum is the more important in northern N.S.W. and E. riparium is becoming increasingly important in S. Queensland. E. adenophorum is unpalatable to cattle, hence its spread in pastures. Fruit production is prolific (7200-10, 080/plant), the fruits being disseminated by wind. The weed mostly occurs on slopes >20 degrees . Biological control (see Abs. 2567) only locally reduced weed vitality and spread. E. adenophorum is fairly easily removed by slashing and ploughing (see Abs. 2120). 2, 4-D amine in a 0.6-0.8 % solution or [1: 1] mixture of esters of 2, 4-D + 2, 4, 5-T in a 0.3-0.6% solution [applied at 250 gal spray/ac] are effective in autumn and sodium chlorate in a 5% solution is effective against flowering plants in spring (see also Abs. 2469). E. riparium is often found as the sub-dominant species in an association with E. adenophorum; fenoprop controls it. Tropical legume species are suitable replacement plants for formerly infested areas.-P.K.
+%G English
+
+%0 Journal Article
+%A Barratt, B. I. P.
+%A Moeed, A.
+%D 2005
+%T Environmental safety of biological control: Policy and practice in New Zealand
+%B Biological Control
+%V 35
+%N 3 SPEC. ISS.
+%P 247-252
+%9 Conference Paper
+%! Environmental safety of biological control: Policy and practice in New Zealand
+%O Biol. Control
+%@ 10499644 (ISSN)
+%R 10.1016/j.biocontrol.2005.01.003
+%K Biological control regulation
+Biological control safety
+Case studies
+Environmental Risk Management Authority
+ERMA New Zealand
+Nontarget effects
+Ageratina
+Ageratina riparia
+Cecidomyiidae
+Cheilosia psilophthalma
+Cheilosia urbana
+Diptera
+Hieracium
+Procecidochares alani
+Syrphidae
+Tephritidae
+%X Introduction of biological control agents into New Zealand is regulated under the Hazardous Substances and New Organisms Act 1996 (HSNO). The legislation is strongly focused on the health and safety of people and the environment. HSNO is implemented by the Environmental Risk Management Authority, a quasi-judicial body of 6-8 people appointed by the Minister for the Environment. The process by which biological control applications are received and processed is described. Two case studies of weed biological control agents which have been through the HSNO process, and the scientific issues that arose in considering the environmental safety of these agents are discussed. The case studies presented are the applications to release the gall fly Procecidochares alani (Diptera: Tephritidae) to control mist flower Ageratina riparia, and three biological control agents, Macrolabis pilosellae (Diptera: Cecidomyiidae), Cheilosia urbana, and Cheilosia psilophthalma (Diptera: Syrphidae) for biological control of hawkweeds (Hieracium spp.). Both applications were approved for agent release into the environment. © 2005 Elsevier Inc. All rights reserved.
+%Z Cited By :34
+Export Date: 8 June 2022
+CODEN: BCIOE
+Correspondence Address: Barratt, B.I.P.; AgResearch Invermay, Private Bag 50034, Mosgiel, New Zealand; email: barbara.barratt@agresearch.co.nz
+%U https://www.scopus.com/inward/record.uri?eid=2-s2.0-27744595842&doi=10.1016%2fj.biocontrol.2005.01.003&partnerID=40&md5=6a61ac96d94b90742ca56fc5afe000b1
+%+ AgResearch Invermay, Private Bag 50034, Mosgiel, New Zealand
+ERMA New Zealand, BP Building, 20 Customhouse Quay, P.O. Box 131, Wellington, New Zealand
+%~ Scopus
+%G English
+
+%0 Journal Article
+%A Bates, N.
+%D 2019
+%T Autumn plant poisoning hazards
+%B Livestock
+%V 24
+%N 5
+%P 239-245
+%! Autumn plant poisoning hazards
+%@ 2053-0862
+%R http://dx.doi.org/10.12968/live.2019.24.5.239
+%K alkaloids
+autumn
+clinical aspects
+diagnosis
+domestic animals
+fruits
+livestock
+poisoning
+poisonous plants
+risk factors
+seeds
+sudden death
+summer
+therapy
+toxicity
+trees
+yews
+woody plants
+%X Potentially poisonous plants are a common part of the environment of many farm animals. Risk of poisoning varies season by season and year by year with variation in the environmental conditions. In the autumn there is risk of poisoning from seeds and fruits and autumn flowering plants. This includes plants containing cyanogenic glycosides (such as cherry laurel) and yew which contains taxine alkaloids. These plants commonly cause sudden death in livestock. Oak, although part of the natural diet of many animals, can cause episodic outbreaks of poisoning, particularly following hot, dry summers. Signs mainly involve the gastrointestinal and renal systems. Poisoning with horse chestnut is not common but can cause neurological and gastrointestinal signs. Ingestion of autumn crocus can also cause gastrointestinal signs in livestock. Prevention of poisoning by recognising the risks and limiting potential circumstances of exposure and ensuring access to forage is essential, as treatment options for management of poisoning in livestock are limited and, in some cases, the only sign of exposure is sudden death.
+%+ London
+%G English
+
+%0 Journal Article
+%A Belanova, A. P.
+%A Otmakhov, Y. S.
+%A Chernikova, T. S.
+%A Chindyaeva, L. N.
+%D 2019
+%T Intrusion of alien tree species in the city forests of Novosibirsk
+%B Sibirskij Lesnoj Zurnal / Siberian Journal of Forest Science
+%N 6
+%P 72-81
+%! Intrusion of alien tree species in the city forests of Novosibirsk
+%@ 2311-1410
+%R http://dx.doi.org/10.15372/SJFS20190608
+%K introduced species
+geographical distribution
+species diversity
+forests
+horticulture
+invasive species
+landscaping
+plant ecology
+red currants
+regeneration
+small fruits
+weeds
+wild relatives
+woody plants
+gooseberries
+fruit crops
+lilac
+crops
+%X In the course of the work, a study was conducted of urban forests in the territory of the Sovetskiy district of the city of Novosibirsk. There are 24 alien species of woody plants that are found in the forest areas of the residential zone and in the adjacent territories naturally. A significant part of these species appeared in the forest areas as a result of the city's landscaping activities and the landscaping of forest parks. The identified species belong to 11 families and have a different geographical origin. The largest number of species (9) belongs to the Rosaceae family, the remaining families are represented by one or two species. Such species as Ulmus pumila, Syringa josikaea, Syringa vulgaris, Amygdalus nana, Grossularia uva-crispa, Clematis recta, Cerasus fruticose, Padus virginiana, Padus maackii, Juglans mandshurica, Ribes spicatum, Acer ginnala, Quercus robur, Berberis vulgaris, Ribes rubrum have been assigned the status of colonophytes. They are capable of self-renewing in places of drift, but are not characterized by active resettlement throughout the territory. The species Grossularia uva-crispa, Ribes spicatum and Ribes rubrum were not used in urban greening and are "runaways" from horticultural culture. Several alien species (Amelanchier spicata, Rosa rugosa, Sorbaria sorbifolia, Ulmus laevis, Viburnum lantana) are classified as potentially invasive plants. Acer negundo and Malus baccata, which are related to invasive species in Siberia and in Novosibirsk Oblast, are the most actively regenerating in the city forests.
+%U https://xn--80abmehbaibgnewcmzjeef0c.xn--p1ai/upload/iblock/c72/c720e73a3c90fb697415cd6215c6c9e0.pdf
+%+ Novosibirsk
+%G Russian
+
+%0 Journal Article
+%A Boyd, N. S.
+%A Reuss, L.
+%D 2022
+%T Survey of Weed Flora and Weed Management Practices in Florida Strawberry Fields
+%B Weed Science
+%9 Article
+%! Survey of Weed Flora and Weed Management Practices in Florida Strawberry Fields
+%O Weed Sci.
+%@ 00431745 (ISSN)
+%R 10.1017/wsc.2022.21
+%K broadleaf
+fumigation
+grass
+herbicide
+nutsedge
+plasticulture
+%X A survey of weed flora and basic weed management practices was conducted in commercial strawberry [Fragaria x ananassa (Weston) Duchesne ex Rozier ssp. ananassa] fields in Central Florida during the 2019-2020 field season. Forty-one fields on 14 farms were surveyed which represents a total of 907 ha or 23% of the planted acreage. All conventional fields were fumigated and combinations of chloropicrin and 1,3-dichloropropene used on 72% of the fumigated acreage. Preemergence or postemergence herbicides were used in row middles on 100% of the conventional acreage but preemergence herbicides applied under the plastic mulch were only used on 12% of the acreage. A total of 47 weed species were identified during the survey. The five weed species with the highest frequency were goosegrass [Eleusine indica (L.) Gaertn.], cutleaf evening primrose (Oenothera laciniata Hill), Carolina geranium (Geranium carolinianum L.), common ragweed (Ambrosia artemisiifolia L.), and eclipta [Eclipta prostrata (L.) L.] which occurred in 83, 63, 58, 58, and 46% of all fields surveyed, respectively. The five species with the highest overall relative abundance were E. indica, O. lanciniata, G. carolinium, A. artemisiifolia, and Brazil pusley (Richardia brasiliensis Gomes). The frequency and distribution of E. indica is of particular concern because populations in strawberry fields are thought to be resistant to paraquat which is the primary herbicide used for crop termination. Weed density tended to be low overall which suggests the integrated weed management (IWM) programs adopted by most growers are effective. Mean weed density tended to be similar on conventional and organic fields and tended to be unaffected by fumigant applied the year of the survey or the number of years strawberries had been grown consecutively in that field. Weed management research moving forward should focus on the development of IWM programs for E. indica, O. laccinata, G. carolinium, and A. artemisiifolia. © Weed Science Society of America 2022.
+%Z Export Date: 9 June 2022
+CODEN: WEESA
+Correspondence Address: Boyd, N.S.; University of Florida, 14625 County Rd. 672, United States; email: nsboyd@ufl.edu
+%U https://www.scopus.com/inward/record.uri?eid=2-s2.0-85130062651&doi=10.1017%2fwsc.2022.21&partnerID=40&md5=c0140f0ef97e1bba682ec057b55eb7f6
+%+ University of Florida, Gulf Coast Research and Education Center, Wimauma, FL, United States
+Biological Scientist, University of Florida, Gulf Coast Research and Education Center, Wimauma, FL, United States
+%~ Scopus
+%G English
+
+%0 Journal Article
+%A Britt, C. P.
+%D 1994
+%T Clematis vitalba (old man's beard) as a competitive "weed" in hedgerows and the effects of hedge cutting regimes on its development
+%B Field margins: integrating agriculture and conservation. Proceedings of a symposium held at Coventry, UK, 18-20 April 1994.
+%P 241-246
+%& Field margins: integrating agriculture and conservation. Proceedings of a symposium held at Coventry, UK, 18-20 April 1994.
+%! Clematis vitalba (old man's beard) as a competitive "weed" in hedgerows and the effects of hedge cutting regimes on its development
+%@ 0-948404-75-2 (hardback)
+%K climbing plants
+control
+cutting
+glyphosate
+growth rate
+hedges
+herbicides
+ornamental plants
+physical control
+plant competition
+plant height
+weed control
+weeds
+woody plants
+woody weeds
+%X Clematis vitalba is a woody, climbing plant commonly found on calcareous soils in the Midlands and south of England (UK). Unless it is controlled by management practices, it is capable of smothering hedges. An experiment at Stratford-upon-Avon, Warwickshire, examined the effects of four hedge management techniques (cutting the both side and the top of the hedge annually to form a rectangular shape with a height of 1.4 m with or without hand cutting Clematis vitalba stems and treating the stumps with glyphosate, cutting alternate sides and top of the hedge annually to form a rectangular shape with a height of 1.4 m, and cutting both sides annually to from a A-shape with a height of 1.8 m) for the control of Clematis vitalba in a hawthorn [Crataegus laevigata] hedge. Cutting Clematis vitalba stems at their base and treating the stumps with glyphosate resulted in effective control of this species, with a consequent improvement in hedge density and height. The method of mechanical hedge trimming had no clear short-term effect on Clematis vitalba abundance.
+%Z BCPC Monograph No. 58//
+%+ Farnham
+%G English
+
+%0 Journal Article
+%A Bucar, D. G.
+%A Prislan, P.
+%A Smolnikar, P.
+%A Stare, D.
+%A Krajnc, N.
+%D 2021
+%T Usefulness of non-native invasive tree species wood residues for pellet production
+%B Uporabnost lesnih ostankov tujerodnih invazivnih drevesnih vrst za proizvodnjo peletov.
+%V 70
+%N 1
+%P 45-58
+%! Usefulness of non-native invasive tree species wood residues for pellet production
+%@ 0024-1067
+%R http://dx.doi.org/10.26614/les-wood.2021.v70n01a04
+%K ash
+bioenergy
+bulk density
+fuels
+invasive alien species
+mechanical properties
+non-wood forest products
+optimization
+pelleting
+pellets
+physical properties
+raw materials
+renewable energy
+water content
+wood residues
+invasive species
+introduced species
+%X We produced pellets from five invasive non-native tree species growing in Slovenia on a laboratory pelle - ting device, namely: wild chestnut (Aesculus hippocastanum), boxelder maple (Acer negundo), black locust (Robinia pseudoacacia), thorny locust (Gleditsia triacanthos) and tree of heaven (Ailanthus altissima), as well as mixtures of the raw material from the above non-native invasive species and spruce (Picea abies) in the ratios 70:30 and 50:50. Under the same production conditions, we produced a total of 15 different types of pellets. The most important phy - sical and mechanical properties (water content, bulk density, mechanical stability and ash content) were determined for the pellets produced. The results were compared with the limits defined in the standard SIST EN ISO 17225-2:2014. The water content and bulk density of all produced pellet types met the requirements of the standard for the highest quality class A1. The mechanical durability of the pellets produced did not meet the requirements of the standard and did not exceed 96.5% (which is the limit value for quality class B). The results suggest that black locust, thorny locust and tree of heaven have the highest potential for further optimization of the pelleting process.
+%U http://www.les-wood.si/index.php/leswood/article/view/118/82
+%+ Ljubljana
+%G Slovenian
+
+%0 Journal Article
+%A Burda, R. I.
+%A Koniakin, S. N.
+%D 2019
+%T The non-native woody species of the flora of Ukraine: introduction, naturalization and invasion
+%B Biosystems Diversity
+%V 27
+%N 3
+%P 276-290
+%! The non-native woody species of the flora of Ukraine: introduction, naturalization and invasion
+%@ 2519-8513
+%R http://dx.doi.org/10.15421/011937
+%K invasions
+species diversity
+introduced species
+invasive species
+flora
+introduction
+seed dispersal
+grapes
+plums
+willows
+trees
+woody plants
+%X The process of invasion, naturalization, dispersion and invasive activity of non-native woody species in 5 regional floras, 5 urban floras and over 30 floras of the protected areas is discussed. It has been established that 182 non-native species out of 95 genera and 45 families are currently at different naturalization stages in the spontaneous flora of Ukraine. In terms of life-forms, they may be divided as follows: trees - 41%, shrubs - 35%, trees/shrubs - 15%, lianas - 9%. Most species spread both via seed dispersal and the vegetative way - 56%, using only seed dispersal - 42%, only the vegetative way - 2%. According to the preliminary rating of species-wise invasive activity, 71 species (40%) have naturalized completely, among them 20 invasive species, including 12 transformer species, 29 potentially invasive species, and 22 naturalized species which demonstrate no invasive tendencies. The initial stages of invasion of 111 species are as follows: introduction - 9%, survival - 36%, adaptation of the reproductive sphere - 28%, establishment, formative of local populations - 27%. In terms of dispersion, non-naturalized species are divided as follows: rare - 45%, local - 16%, sporadic - 6%, unique - 12%, spreading under control beyond collections and expositions in botanical gardens and arboretums - 21%. Twelve transformer species, the greatest threat to local diversity, are Acer negundo, Ailanthus altissima, Amorpha fruticosa, Bupleurum fruticosum, Elaeagnus angustifolia, E. rhamnoides, Fraxinus ornus, Parthenocissus quinquefolia, P. vitacea, Robinia pseudoacacia, Rhamnus alaternus, Salix x blanda and 8 invasive proper species: Berberis aquifolia, Colutea orientalis, Daphne laureola, Prunus cerasifera, P. serotina, Quercus ilex, Viburnum tinus, Vitis vinifera. The list of alien species, most wide-spread in 50 regions of Europe, includes Robinia pseudoacacia (42 regions), Ailanthus altissima (40), Acer negundo (38), Prunus cerasus (34), Quercus rubra (34), Rosa rugosa (34), Prunus domestica (31). The mitigation of the impacts of these species on local biodiversity is possible via the restoration of local native plant communities, land use organization, strict selection of introduced species prior to the introduction, culture of planting management, preventive measures and extending awareness and sharing of information about plant invasions. Therefore, Ukraine's spontaneous flora is notable for the active process of naturalization of non-native woody species with considerable involvement of invasive alien species. This is the first and preliminary evaluation of the invasive activity of woody species in Ukraine's flora. The manifestations of the global tendency of increased involvement and invasive activity of alien woody species in domestic flora have been confirmed. These conclusions are also relevant for elaborating the system of preventive, containing and mitigating measures regarding plant invasions in Ukraine.
+%U https://ecology.dp.ua/index.php/ECO/article/view/1002/962
+%+ Dnipropetrovsk
+%G English
+
+%0 Journal Article
+%A Catling, P. M.
+%D 2005
+%T Additions to the flora of the continental Northwest Territories from the great slave lake area
+%B Canadian Field-Naturalist
+%V 119
+%N 3
+%P 437-440
+%9 Review
+%! Additions to the flora of the continental Northwest Territories from the great slave lake area
+%O Can. Field-Nat.
+%@ 00083550 (ISSN)
+%R 10.22621/cfn.v119i3.155
+%K Additions
+Canada
+Northwest territories
+Range extensions
+Vascular plants
+ecoregion
+flora
+floristics
+introduced species
+native species
+new species
+range expansion
+vascular plant
+Great Slave Lake
+North America
+Acer pensylvanicum
+Achillea
+Achillea millefolium
+Achillea ptarmica
+Actaea rubra
+Artemesia
+Chaenorhinum minus
+Chenopodium leptophyllum
+Eleocharis
+Eleocharis erythropoda
+Galium
+Galium aparine
+Malva
+Malva neglecta
+Panicum capillare
+Schoenoplectus pungens
+Silene
+Silene cserei
+Sonchus
+Sonchus arvensis
+Symphyotrichum lanceolatum
+Tracheophyta
+%X Eleven species are reported as new to the flora of the continental Northwest Territories. The new native species include Artemesia dracunculus, Chenopodium leptophyllum, Eleocharis erythropoda, Panicum capillare, Schoenoplectus pungens and Symphyotrichum lanceolatum subsp. hesperium var. hesperium. New alien species reported include Achillea ptarmica, Chaenorhinum minus, Galium aparine, Malva neglecta and Silene cserei. Sonchus arvensis, previously reported, is based on material referable to a subsp. uliginosus. Forms new to the flora include Achillea millefolium f. rosea and Actaea rubra f. neglecta. Locations, habitats and distinctive features are provided for the additional taxa. The Hay River lowland ecoregion is a floristically rich area that deserves more botanical exploration.
+%Z Cited By :1
+Export Date: 8 June 2022
+CODEN: CAFNA
+Correspondence Address: Catling, P.M.; Biodiversity, , Ottawa, Ont. K1A 0C6, Canada; email: catlingp@agr.gc.ca
+%U https://www.scopus.com/inward/record.uri?eid=2-s2.0-33845916294&doi=10.22621%2fcfn.v119i3.155&partnerID=40&md5=c328fa9bf3ab21a54bd157c0619dc5e6
+%+ Biodiversity, National Program on Environmental Health, Agriculture and Agri-food Canada, Ottawa, Ont. K1A 0C6, Canada
+%~ Scopus
+%G English
+
+%0 Journal Article
+%A Chung, H. I.
+%A Choi, Y.
+%A Yoo, Y.
+%A Engler, R.
+%A Lee, K.
+%A Jeon, S. W.
+%D 2022
+%T Integrated spatial model based evaluation methodology for optimal invasive species management: common ragweed in the Republic of Korea
+%B Environmental Research Letters
+%V 17
+%N 3
+%9 Article
+%! Integrated spatial model based evaluation methodology for optimal invasive species management: common ragweed in the Republic of Korea
+%O Environ.Res.Lett.
+%@ 17489318 (ISSN)
+%R 10.1088/1748-9326/ac4dc7
+%] 034047
+%K climate change
+evaluation methodology
+human-mediated disturbances
+integrated spatial model
+invasive species
+optimization
+removal policy
+Climate models
+Efficiency
+Adverse effect
+Evaluation methodologies
+Human-mediated disturbance
+Optimisations
+Removal effects
+Removal rate
+Spatial modelling
+human activity
+weed
+weed control
+South Korea
+%X Invasive species have become a global problem owing to their wide-ranging adverse effects. With intensifying climate change and artificial impacts (human-mediated disturbances), which exacerbate the adverse effects of invasive species, there is an urgent need to implement strategies for the management of these species. Various removal policies have been implemented globally to manage the common ragweed (Ambrosia artemisiifolia var. elatior (L.,) Decs) owing to its high tendency to 'spread'. Several studies on the control method, application of spatial perspective, and optimization have been conducted to establish and evaluate management strategies using different spatial models. Although each of these methods is essential for improving control efficiency, an integrated form of study is needed to determine the practicality of various policies. In this study, we developed an integrated spatial model using the species distribution model BIOMOD2, land change model LCM, dispersal model MigClim, and optimization model prioritizr, to construct an evaluation methodology. For modelling an optimal invasive species removal policy under climate change and human-mediated disturbances (2011-2079), we created two strategies from a spatial perspective, outside-in and inside-out, with the former entailing removal from the low-density outliers to the high-density centre of the colonized area and the latter processing in the opposite direction. The optimal removal sites for each strategy were set for each removal rate. Subsequently, a novel index, 'removal effect index', was proposed for the evaluation, in time series. The results indicate that the removal effect of the outside-in strategy was more effective, and the newly dispersed sites were efficiently removed. Furthermore, it was verified that with the implementation of the outside-in strategy having a removal rate of 65% by the 2070s, the species would be completely eradicated. Thus, this study is expected to help improve the efficiency of policy implementation for invasive species. © 2022 The Author(s). Published by IOP Publishing Ltd.
+%Z Export Date: 9 June 2022
+Correspondence Address: Jeon, S.W.; Department Of Environmental Science And Ecological Engineering, South Korea; email: eepps_korea@korea.ac.kr
+%U https://www.scopus.com/inward/record.uri?eid=2-s2.0-85128228126&doi=10.1088%2f1748-9326%2fac4dc7&partnerID=40&md5=00789c08d1f588456743738a5129a2fc
+%+ Department Of Environmental Science And Ecological Engineering, Korea University, Seoul, 02841, South Korea
+BK21 Four RandE Center For Environmental Science And Ecological Engineering, Korea University, Seoul, 02841, South Korea
+Sib Swiss Institute Of Bioinformatics, Amphipole Building, Lausanne, CH-1015, Switzerland
+National Institute Of Environmental Research, Incheon, 22689, South Korea
+%~ Scopus
+%G English
+
+%0 Journal Article
+%A Clements, H.
+%A Bierzychudek, P.
+%D 2017
+%T Can the persistent seed bank contribute to the passive restoration of urban forest fragments after invasive species removal?
+%B Ecological Restoration
+%V 35
+%N 2
+%P 156-166
+%9 Article
+%! Can the persistent seed bank contribute to the passive restoration of urban forest fragments after invasive species removal?
+%O Ecol. Restor.
+%@ 15224740 (ISSN)
+%R 10.3368/er.35.2.156
+%K Emergent seedlings
+Ivy
+Native plant recruitment
+Non-native plant species
+%X Urban forest fragments are vulnerable to invasion by non-native species, and invaded forests are increasingly targeted for invasive species removals. Our goal was to determine the extent to which persistent seed banks can contribute to the recruitment of native forest species into urban forest fragments from which invasive plant species have been removed. In a greenhouse, we germinated seeds from soil samples from three forest fragments in Portland, Oregon, US. All sites had been invaded by Hedera hibernica (Irish ivy) and H. helix (English ivy), Clematis vitalba (virgin's bower), Ilex aquifolium (English holly), and Prunus laurocerasus (English laurel). At one site, these species had been removed three years prior to our study. Emergents represented 53 taxa, classified as: native forest species, native non-forest species, and non-native species. We observed few native forest species (5-12/site); 29-83% of samples contained these species, at median densities of 0-2 seeds/sample/site. Non-native species were more diverse (12-17/site), more frequent (75-89% of samples), and denser (median = 2-5 seeds/sample/site). Clematis vitalba seeds were especially abundant. Invasive removal had little effect on the persistent seed bank; however, the least-invaded site had the highest richness, frequency, and density of native forest species. The low richness and abundance of native forest species is not necessarily a concern, because many forest species do not form persistent seed banks. The annual seed rain can regenerate native species whose density has been diminished by invasive plant species and their removal. However, managers wishing to restore absent species should plan to follow removal efforts with active revegetation. © 2017 by the Board of Regents of the University of Wisconsin System.
+%Z Cited By :4
+Export Date: 16 June 2022
+CODEN: ERCEB
+Correspondence Address: Bierzychudek, P.; Department of Biology, United States; email: bierzych@lclark.edu
+%U https://www.scopus.com/inward/record.uri?eid=2-s2.0-85019549737&doi=10.3368%2fer.35.2.156&partnerID=40&md5=00ce8ec33517dec49ef53b750a304357
+%+ Department of Biology, Lewis and Clark College, Portland, OR 97219, United States
+19704 21st Ave NW, Shoreline, WA 98177, United States
+%~ Scopus
+%G English
+
+%0 Journal Article
+%A Cooke, D. A.
+%A Heinson, M. A.
+%A Virtue, J. G.
+%D 2016
+%T New and revised plant declarations in South Australia
+%B 20th Australasian Weeds Conference, Perth, Western Australia, 11-15 September 2016
+%P 313-316
+%& 20th Australasian Weeds Conference, Perth, Western Australia, 11-15 September 2016.
+%! New and revised plant declarations in South Australia
+%@ 9780646960319 (hardback)
+%K aquatic organisms
+aquatic plants
+legislation
+policy
+reviews
+weeds
+%X Summary South Australia has conducted a comprehensive review of plant declarations under the Natural Resources Management Act 2004. Various sections of this Act allow for prohibition of sale and road transport of declared plants, legal requirements for landholder control and formal notification of their presence. Declarations are based on risk assessment and policies adopted for each species. The review has occurred over four phases with 155 weed policies revised or newly developed. Policies cover broad goals and objectives, state risk assessment and regional management actions. There are currently 140 declared plants in SA with another five currently under consideration. These are alisma (Alisma lanceolatum With.), coastal tea-tree (Leptospermum laevigatum (Gaertn.) F.Muell.), dune onionweed (Trachyandra divaricata (Jacq.) Kunth), giant reed (Arundo donax L.) and parrot feather (Myriophyllum aquaticum (Vell.) Verdc.).
+%+ Perth
+%G English
+
+%0 Journal Article
+%A Cushman, J. Hall
+%A Gaffney, Karen A.
+%D 2010
+%T Community-level consequences of invasion: impacts of exotic clonal plants on riparian vegetation
+%B Biological Invasions
+%V 12
+%N 8
+%P 2765-2776
+%! Community-level consequences of invasion: impacts of exotic clonal plants on riparian vegetation
+%@ 1387-3547(print), 1573-1464(electronic)
+%R http://dx.doi.org/10.1007/s10530-009-9682-2
+%K California
+USA
+North America
+Nearctic region
+Terrestrial Ecology
+Ecology
+Environmental Sciences
+Biodiversity
+Species
+Common
+Alien Species
+Apocynaceae
+Gramineae
+Ecology: environmental biology - General and methods
+Ecology: environmental biology - Plant
+Dicotyledones
+Angiospermae
+Spermatophyta
+Plantae
+Angiosperms
+Dicots
+Plants
+Spermatophytes
+Vascular Plants
+Monocotyledones
+Monocots
+%X Biological invasions by exotic species are occurring at exceptional rates and spatial scales worldwide and are increasingly recognized as key forms of global environmental change. Despite this growing prominence, surprisingly few ecological studies have quantified the impacts of exotic taxa on the plant communities they invade, and this is especially evident in riparian ecosystems. Along the Russian River in northern California, we used both comparative and experimental studies to investigate the influence of two exotic clonal plant species-giant reed (Arundo donax) and blue periwinkle (Vinca major)-on the composition of riparian plant communities. Our results indicate that Arundo invasion was associated with significantly lower richness of native perennial plant species on stream banks and floodplains, whereas there was no relationship on gravel bars. Additional research showed that plots invaded by Arundo and Vinca, both individually and collectively, exhibited significantly lower native and exotic species richness and abundance of both established plants and seedlings than uninvaded plots. Finally, after 2 years, experimental reductions of Arundo biomass via cutting and herbicide resulted in significantly increased native plant species richness and abundances of both established plants and seedlings, while having no effects on other exotics. In summary, our results indicate that Arundo and Vinca have strongly negative effects on diverse components of a riparian plant community, which must be addressed via effective control and restoration efforts.
+%Z [Author, Reprint Author; E-mail: cushman@sonoma.edu]
+[Author]
+%U http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=biop36&NEWS=N&AN=PREV201000437409
+
+%0 Journal Article
+%A de Salamanca, Á E.
+%A Gabriel y Galán, J. M.
+%A Cabezas, F.
+%A Ronda, M. M.
+%D 2021
+%T Atlas of alien plants of Madrid, II. Nymphaceae-Gramineae
+%B Botanica Complutensis
+%V 45
+%9 Article
+%! Atlas de la flora alóctona de Madrid, II. Nymphaceae-Gramineae
+%O Bot. Complutensis
+%@ 02144565 (ISSN)
+%R 10.5209/bocm.75354
+%K Alien plants
+Madrid
+Magnoliidae
+Monocots
+Naturalized plants
+Nymphaceae
+Spain
+%X In this second part of the atlas of allochthonous flora of Madrid, the Orders Nymphaeales, Magnoliales, Laurales and as well as Monocots plant are included. It has been considered the taxa introduced out of urban areas, parks or gardens, naturalized or not. A total of 101 taxa are analyzed and references to other 39 are included. Of the analyzed taxa, 58 are allochthonous in Madrid (49 naturalized, 8 without evidence of being so and one without specific known localities) and 9 in nearby localities (8 naturalized and 1 without evidence of being so). Another 11 are allochthonous in Madrid and could be naturalized, but there is no evidence of this; 5 appear in gardens and 6 are suspected of their possible presence due to their use in crops or extensive sowing. In 18 taxa there are discrepancies between authors on whether or not they are allochthonous; in this work it has been considered that they are not. Finally, it is proposed to exclude 5 taxa from the allochthonous flora of Madrid. Among the taxa included, Arundo donax is one of the most aggressive invasive plant in the world, Arundo donax. Some taxa are ancient introductions with stabilized or declining populations. There are very few references to naturalized cereals, which may be due to their low persistence. Some species are neocolonizers, like Limnobium laevigatum, the most recently detected, or Cortaderia selloana, in expansion. © 2021 Universidad Complutense de Madrid. All rights reserved.
+%Z Export Date: 9 June 2022
+CODEN: BCOOA
+%U https://www.scopus.com/inward/record.uri?eid=2-s2.0-85107803408&doi=10.5209%2fbocm.75354&partnerID=40&md5=b2c56aa23b02a8b7ddb641fc4df6b0fb
+%+ Unidad de Botánica, Departamento de Biodiversidad, Ecología y Evolución, Facultad de Ciencias Biológicas, Universidad Complutense, Avda. José Antonio Nováis 12, Madrid, 28040, Spain
+Ingeniería y Consultoría Medioambiental, C/ Cañada Nueva, 13, San Lorenzo de El Escorial, 28200-, Spain
+Universidad Nacional de Educación a Distancia (UNED), C/ Senda del Rey, 9, Madrid, 28040, Spain
+%~ Scopus
+%G Spanish
+
+%0 Journal Article
+%A Diachenko, T. N.
+%A Liashenko, A. V.
+%D 2013
+%T The giant reed (Arundo donax) in the Kiliya Danube delta
+%B Hydrobiological Journal
+%V 49
+%N 1
+%P 109-112
+%! The giant reed (Arundo donax) in the Kiliya Danube delta
+%@ 0018-8166
+%R http://dx.doi.org/10.1615/HydrobJ.v49.i1.100
+%K deltas
+descriptions
+geographical distribution
+introduced species
+new geographic records
+plant communities
+taxonomy
+utilization
+%X Arundo donax L. of the family Poaceae (Gramineae) has been found in the Kiliya Danube delta for the first time. Its description and ecological features are given. Issues related to the species introduction and its utilization are considered.
+%U http://www.dl.begellhouse.com/journals/38cb2223012b73f2,4ceaa39b0d1206a7,7d34ecea1e6a072a.html
+%+ New York
+%G English
+
+%0 Journal Article
+%A Downard, P.
+%D 1986
+%T Herbicides for control of old man's beard
+%B Proceedings of the thirty-ninth New Zealand Weed and Pest Control Conference.
+%P 108-109
+%& Proceedings of the thirty-ninth New Zealand Weed and Pest Control Conference.
+%! Herbicides for control of old man's beard
+%K 2,4,5-T
+aerial application
+Application
+broadleaves
+climbing plants
+clopyralid
+crops
+forests
+Glyphosate
+herbicides
+ORNAMENTAL PLANTS
+Picloram
+trees
+Triclopyr
+Usage
+weed control
+weeds
+woody plants
+invasive species
+introduced species
+%X In trials in Canterbury, Nelson and Manawatu, 17 g picloram + 68 g 2,4,5-T or triclopyr/10 litres spray applied by knapsack sprayer to the lower 2 m of tree stems gave complete control of Clematis vitalba, effectively releasing trees from competition. Excellent control was also provided by picloram + 2,4,5-T at 11 + 44 g and 22 + 88 g, 200 and 300 g clopyralid and 120, 240 and 360 g glyphosate all in 100 litres of spray and applied to run off at 4000 litres/ha up to 4 m high. In 2 trials in which herbicides were applied by helicopter using standard disc and core nozzles and the half overlapping double pass technique, picloram + 2,4,5-T at 0.6 + 2.4 kg or 1.3 + 5 kg and 3.8 or 7.5 kg clopyralid all in 220 and 440 litres/ha gave 60-90% and 30-80% control, resp. It is suggested that clopyralid, since it is tolerated by a large number of introduced trees and shrubs, would be suitable for use in amenity areas, while where directed basal application is feasible picloram + 2,4,5-T or + glyphosate could be used around those woody species which would not tolerate overall sprays.
+%+ Palmerston North
+%G English
+
+%0 Journal Article
+%A Ehlers
+%D 1965
+%T The use of amitrole and dalapon in conifer plantations
+%B Allg. Forstzeitschr.
+%V 20
+%N 19
+%P 294-6
+%! The use of amitrole and dalapon in conifer plantations
+%K amitrole
+coppice
+dalapon
+discoloration
+herbicides
+hops
+injuries
+larch
+pesticides
+pines
+plantations
+regeneration
+regrowth
+silviculture
+trees
+weeds
+woody plants
+%X In N.W. German trials, 1. kg. amitrole + 1.5 kg. dalapon/ha. in 200 litres water kept down grass and weeds, including ferns and coppice regrowth of woody species, for 3 to 5 months after treatment in the period from June to early July, whereas neither preparation alone was effective at the dosage applied. Injuries (shoot discolorations) to Abies grandis, Pinus strobus, Picea omorika and Larix leptolepis were not serious. P. abies suffered discoloration only when double the dosage was applied. Humulus lupulus recovered quickly and Clematis vitalba was resistan.t. KEYWORDS: Abies grandis tending \ Larix leptolepis tending \ Picea abies tending \ Picea omoriko. \ Pinus strobus tending \ Regeneration \ Silviculture \ herbicides \ amino triazole \ herbicides \ dalapon
+%G German
+
+%0 Journal Article
+%A Ferreira, M. T.
+%A Moreira, I. S.
+%D 1995
+%T The invasive component of a river flora under the influence of Mediterranean agricultural systems
+%B Plant invasions: general aspects and special problems. Workshop held at Kostelec nad Cernymi lesy, Czech Republic, 16-19 September 1993.
+%P 117-127
+%& Plant invasions: general aspects and special problems. Workshop held at Kostelec nad Cernymi lesy, Czech Republic, 16-19 September 1993.
+%! The invasive component of a river flora under the influence of Mediterranean agricultural systems
+%@ 9789051030976 (hardback)
+%K aquatic organisms
+aquatic plants
+aquatic weeds
+crop plants as weeds
+ecology
+invasion
+invasive species
+maps
+plant ecology
+rivers
+surveys
+volunteer plants
+weeds
+%X The results of a survey conducted in Portugal in 1986-89 on the vegetation of the River Sorraia and its tributaries are presented. From sampling of the inner bank, riverbed and water at 116 sites, 437 species were recorded of which 213 were lotic (aquatic and wetland) and the remainder terrestrial. Only 27 lotic and 14 terrestrial species were alien, and all these were preferentially associated with mid and lower courses and sites disturbed by agricultural activities, particularly those subjected to straightening or heavy silting. Myriophyllum aquaticum and Paspalum paspalodes [P. distichum] were the most frequently occurring lotic species (found at 39 and 48% of sites, resp.) and were highly invasive; Arundo donax and Amaranthus retroflexus were the most common terrestrial species (16 and 17%, resp.) but were considered to be of moderate invasiveness. The results of a study of the invasiveness of M. aquaticum in a 23-km-long stretch of the River Sorraia indicated that this species dominated the indigenous hydrophytes in most sections and in some cases was the only hydrophyte present. The threat posed to Portuguese river systems by invasive lotic species is discussed.
+%+ Amsterdam
+%G English
+
+%0 Journal Article
+%A Ferus, P.
+%D 2018
+%T Searching for potentially invasive maples (Acer sp.) in Slovak cities
+%B Dendrologicke dni v Arborete Mlynany SAV 2018, "Dreviny a prostredie", Vieska nad Zitavou, Slovakia, 11. oktobra 2018. Recenzovany zbornik prispevkov z vedeckej konferencie
+%P 33-39
+%& Dendrologicke dni v Arborete Mlynany SAV 2018, "Dreviny a prostredie", Vieska nad Zitavou, Slovakia, 11. oktobra 2018. Recenzovany zbornik prispevkov z vedeckej konferencie.
+%! Searching for potentially invasive maples (Acer sp.) in Slovak cities
+%@ 9788089408337 (hardback)
+%K gardens
+invasions
+invasive species
+residential areas
+species diversity
+species richness
+urban areas
+urban parks
+%X Non-native maples (Acer sp.), as fecund and vigorous trees, have potential to become invasive. In this work, we analysed the foreign maple species structure and abundance in city parks, residential areas and private gardens in Bratislava, Nitra and Zlate Moravce with the focus on individuals escaped from culture. Silver maple (Acer saccharinum L.) was the most frequently planted maple species in parks and older residential areas. However, in private gardens dominated palm maple (Acer palmatum Thunb.). In new residences architects relied almost exclusively on native species. The only one maple species, in which escape was observed, was the silver maple. Putting together with the typical attributes of plant species invasiveness, we think that this is a good candidate for future invasive species.
+%+ Vieska nad Zitavou
+%G English
+
+%0 Journal Article
+%A Garcia, C. C.
+%A Nepi, M.
+%A Pacini, E.
+%D 2006
+%T Structural aspects and ecophysiology of anther opening in Allium triquetrum
+%B Annals of Botany
+%V 97
+%N 4
+%P 521-527
+%! Structural aspects and ecophysiology of anther opening in Allium triquetrum
+%@ 0305-7364
+%R http://dx.doi.org/10.1093/aob/mcl015
+%K anthers
+dehydration
+desiccation
+evaporation
+frequency distribution
+plant development
+plant water relations
+relative humidity
+%X Background and Aims: Tissue desiccation is considered to be involved in anther opening, and it is agreed that environmental humidity affects its timing. Different sources of evidence suggest that the later steps of the process (i.e. stomium opening and outward wall bending) are regulated in different ways. Anther opening was studied in Allium triquetrum under four regimes of relative humidity (RH) to analyse the effect of this parameter and to speculate about its possible regulation. Methods: Anther histology was studied in cross-sections under a microscope. The times of visible anther opening and complete outward wall bending were recorded separately for each level of RH. Frequency distributions were plotted to express anther behaviour. Key Results: When a longitudinal stomium breaks the anther remains closed due to adherence of walls on each side of the stomium. Anther opening occurs when the adhering walls subsequently separate. Later, the walls shrink laterally and bend outward. The anthers of the inner whorl opened during the morning of the first day of anthesis, while those of the outer whorl opened during the afternoon. Low RH (20%) did not cause any evident acceleration of anther opening, but it did cause delay and inhibition of the opening of some anthers in the outer whorl. High RH (55 and 98%) caused different degrees of delay and also inhibition of anther opening, but most anthers opened within the expected range of time. The time taken for outward wall bending was shortened at 20% RH. Anther wall outward bending was inhibited at 55% and 98% RH. Conclusions: Anther opening occurred at a specific moment of anther development, separated in time from stomium breakage, and seemed related to dehydration caused by reabsorption of water by contiguous tissues. Outward bending of the wall was facilitated by evaporation. Anther opening and anther wall outward bending seemed to be regulated differently in relation to water control.
+%U http://aob.oxfordjournals.org/
+%+ Oxford
+%G English
+
+%0 Journal Article
+%A Gibson, J. A.
+%A O'Sullivan, B. M.
+%D 1984
+%T Lung lesions in horses fed mist flower (Eupatorium riparium)
+%B Australian Veterinary Journal
+%V 61
+%N 8
+%P 271
+%! Lung lesions in horses fed mist flower (Eupatorium riparium)
+%@ 0005-0423
+%R http://dx.doi.org/10.1111/j.1751-0813.1984.tb15547.x
+%K animal diseases
+Bronchiolitis
+horse diseases
+Pathology
+poisonous plants
+Poisonous weeds
+respiratory diseases
+weeds
+%X E. riparium is a common perennial weed of S.E. Queensland and N.E. New South Wales. Dried material of plants collected at all stages, flowering and non-flowering, was fed to two horses at 1.5 kg/day (6 g/kg body weight) for 12 and 22 months respectively. PM examination revealed small numbers of palpable nodules, 0.5-4 cm in diameter, in the lungs of both horses, and they were larger and more numerous in the horse fed on the plant for 22 months. Microscopically, there was a chronic eosinophilic bronchiolitis. An intense infiltration of eosinophils and mononuclear inflammatory cells occurred around bronchioles and accompanying arterioles. The lesions in these two horses were similar to those observed in natural and experimental cases of E. adenophorum poisoning. [See also VB 49, 5540].
+%G English
+
+%0 Journal Article
+%A Glogov, P.
+%A Pavlova, D.
+%A Georgieva, M.
+%A Dodev, Y.
+%A Gyudorova, S.
+%D 2019
+%T Survey of invasive alien species in the flora of Lozenska Mountain, Bulgaria
+%B Botanikai Kozlemenyek
+%V 106
+%N 2
+%P 197-216
+%9 Article
+%! Survey of invasive alien species in the flora of Lozenska Mountain, Bulgaria
+%O Bot. Kozl.
+%@ 00068144 (ISSN)
+%R 10.17716/BotKozlem.2019.106.2.197
+%K Abundance
+Distribution
+Ecological strategy
+Frequency
+Invasive plants
+%X This study explores the invasive alien flora of Lozenska Mountain, southwestern Bulgaria (maximum height 1190 m, area 80 km2). The aims were to (i) describe the taxonomic and ecological structure of the invasive alien flora in Lozenska Mountain, and (ii) provide data on the local distribution of the globally most widespread invasive species. Ten transects of different lengths (from 4 to 12 km) in different parts of the mountain covering the most characteristic habitats were surveyed between April 2017 and October 2018. Altogether, 27 invasive alien species (IAS) and 4 potentially invasive alien species (PIAS) belonging to 17 families of flowering plants were encountered. These represent 3.46% of the flora of Lozenska Mountain, and 45% of all the IAS in Bulgaria. Seven species (Acer negundo, Ailanthus altissima, Amorpha fruticosa, Bidens frondosus, Fallopia × bohe mica, Opuntia humifusa and Robinia pseudoacacia) are highly aggressive. In the biological spectrum of IAS, therophytes predominate (29%), followed by hemicryptophytes (19.4%). The majority of IAS originates from America (65.6%) and Asia (19.5%). 64.5% of the IAS were deliberately introduced. The established invasive species on the territory of the mountain are predominantly heliophytes (90.3%); microthermophytes (71.0%); high humidity species (38.7%); mesophytes (54.8%), mesooligotrophs (58.1%) and basophilic species (80.6%). The most widespread species are Robinia pseudoacacia, Erigeron canadensis and Xanthium italicum. Most of the IAS were found in one transect only. The highest percentage of species cover (over 80%) was reached by plants adapted to specific habitats: aquatic (Elodea canadensis), riparian (Impatiens glandulifera, Fallopia × bohemica) and anthropogenically heavily disturbed terrains (Sorghum halepense). There is a substantial threat of IAS irruption on the territory of Lozenska Mountain for the following habitat types (reference codes according to Annex I of the Directive 92/43/EEC): 3150 (Natural eutrophic lakes with Magnopotamion or Hydrocharition vegetation) and 3270 (Rivers with muddy banks with Chenopodion rubri p.p. and Bidention p.p. vegetation) included in Natura 2000. A map of IAS occurrences in the mountain was prepared and it was found that IAS predominantly appear in areas around rivers with permanent water regime such as Iskar, Rakita and Gabra, and near urbanized areas adjacent to settlements, along roads and in abandoned mines. The populations of the species Amaranthus hybridus, A. retroflexus, Elodea canadensis, Erigeron annuus, E. canadensis, Fallopia × bohemica, Impatiens glandulifera, Oenothera biennis, Opuntia humifusa, Robinia pseudoacacia, Solidago gigantea, Sorghum halepense and Xanthium italicum occur in certain parts of Lozenska Mountain. Other IAS have so far formed small populations only being accessorial elements in natural plant communities. © 2019 Magyar Biologiai Tarsasag (Hungarian Biological Society). All rights reserved.
+%Z Cited By :2
+Export Date: 7 June 2022
+Correspondence Address: Glogov, P.; Department of Silviculture, 132 St. Kliment Ohridski Blvd., Bulgaria; email: pglogov@abv.bg
+%U https://www.scopus.com/inward/record.uri?eid=2-s2.0-85078540561&doi=10.17716%2fBotKozlem.2019.106.2.197&partnerID=40&md5=dcd9bb5d0279b3436be04f3f36db7fde
+%+ Department of Silviculture, Forest Research Institute, Bulgarian Academy of Sciences, 132 St. Kliment Ohridski Blvd., Sofia, 1756, Bulgaria
+Department of Botany, Faculty of Biology, University of Sofia, 8 Dragan Tzankov Blvd., Sofia, 1164, Bulgaria
+Department of Forest Genetics, Physiology and Plantations, Forest Research Institute, Bulgarian Academy of Sciences, 132 St. Kliment Ohridski Blvd., Sofia, 1756, Bulgaria
+%~ Scopus
+%G English
+
+%0 Journal Article
+%A Howell, Clayson J.
+%D 2012
+%T Progress toward Environmental Weed Eradication in New Zealand
+%B Invasive Plant Science & Management
+%V 5
+%N 2
+%P 249-258
+%! Progress toward Environmental Weed Eradication in New Zealand
+%@ 1939-7291(print), 1939-747X(electronic)
+%R http://dx.doi.org/10.1614/IPSM-D-11-00001.1
+%K New Zealand
+Australasian region
+Agronomy
+Agriculture
+Wildlife Management
+Conservation
+Species
+Common
+Buddlejaceae
+General biology - Conservation and resource management
+Ecology: environmental biology - General and methods
+Ecology: environmental biology - Plant
+Agronomy - Miscellaneous and mixed crops
+Agronomy - Weed control
+Dicotyledones
+Angiospermae
+Spermatophyta
+Plantae
+Angiosperms
+Dicots
+Plants
+Spermatophytes
+Vascular Plants
+%X Data on 111 environmental weed eradication programs carried out by the New Zealand Department of Conservation (DOG) have been collected and summarized. A total of 21 programs were discontinued, and 90 are ongoing. Within the ongoing programs, four have been successful in that no plants remain at any known infestations. All four of the successful eradications had a total area across all infestations of less than 1 ha (2.5 ac); however, many similar-sized programs were not successful. Correctly assessing the extent of infestations appears to be a major problem for discontinued programs. Some of the ongoing programs are progressing toward eradication, but this is taking much longer than initially anticipated. The strongest determinant of progress toward eradication was found to be the identity of the DOC administrative area, for reasons that are only speculative. The number and area of initial infestations had no effect on progress toward eradication. However, the rate at which new infestations were located was negatively correlated with progress. Across many programs, progress was restricted by inconsistent infestation visitation. After running for a decade, DOC's weed eradication strategy has yet to provide significant dividends. Environmental weed eradication is clearly more difficult than has previously been acknowledged in New Zealand.
+%Z [Author, Reprint Author; E-mail: chowell@doc.govt.nz]
+%U http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=biop38&NEWS=N&AN=PREV201200544223
+
+%0 Journal Article
+%A Humair, F.
+%A Siegrist, M.
+%A Kueffer, C.
+%D 2014
+%T Working with the horticultural industry to limit invasion risks: the Swiss experience
+%B Bulletin OEPP
+%V 44
+%N 2
+%P 232-238
+%! Working with the horticultural industry to limit invasion risks: the Swiss experience
+%@ 0250-8052(print), 1365-2338(electronic)
+%R http://dx.doi.org/10.1111/epp.12113
+%K Switzerland
+Europe
+Palearctic region
+Government and Law
+Pest Assessment Control and Management
+Species
+Alien Species
+Buddlejaceae
+Caprifoliaceae
+Rosaceae
+General biology - Institutions, administration and legislation
+Pest control: general, pesticides and herbicides
+Dicotyledones
+Angiospermae
+Spermatophyta
+Plantae
+Angiosperms
+Dicots
+Plants
+Spermatophytes
+Vascular Plants
+%X Building relationships with stakeholders involved in species introductions is increasingly considered as an effective means to mitigate invasion risks. The horticultural industry is of particular importance to the regulation of alien plants. This paper presents the initial experiences with a recently implemented environmental policy called 'Duty to Inform' which aims to limit the risk of plant invasions through alien horticultural plants in Switzerland. The Duty to Inform requires horticulturalists to inform their customers about risks of black-listed plants and watch list plants. In a joint effort with the Swiss horticultural industry and Swiss authorities, the authors examined customers' acceptance of plant labels as a means to supply information, and horticulturalists' attitudes towards the Duty to Inform regulation, and their willingness to act pro-environmentally. Plant labels were found to be an effective means to inform customers about plant invasion risks and appropriate handling of risk species. The results indicate that among Swiss horticulturalists the awareness of the invasive species problem and the willingness to act is high. Horticulturalists had positive attitudes towards the Duty to Inform regulation and other actions to reduce invasion risks. The authors suggest that these positive attitudes might stem from an active participation of horticulturalists in the development of invasive species regulations in Switzerland.
+%Z [Author, Reprint Author]
+[Author]
+[Author; E-mail: christoph.kueffer@env.ethz.ch]
+%U http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=biop40&NEWS=N&AN=PREV201400663439
+
+%0 Journal Article
+%A Junaedi, D. I.
+%A Dodo
+%D 2014
+%T Exotic plants in Halimun Salak corridor: Micro-environment, detection and risk analysis of invasive plants
+%B Biotropia
+%V 21
+%N 1
+%P 38-52
+%9 Article
+%! Exotic plants in Halimun Salak corridor: Micro-environment, detection and risk analysis of invasive plants
+%O Biotropia
+%@ 02156334 (ISSN)
+%R 10.11598/btb.2014.21.1.4
+%K Conservation
+Halimun-Salak corridor
+Invasive plant
+Multi-dimensional scaling
+Plant ecology
+Weed risk assessment
+%X Research of exotic plant species detection and risk analysis of invasive plant was conducted in Halimun-Salak corridor area. This study aimed to conduct inventory of exotic plant species in this area and to perform risk analysis of invasive to the exotic plants found. The invasion risk assessment of detected exotic plants was analyzed using Weed Risk Assessment Procedure (WRAP) method. Moreover, analysis of multi-dimensional scaling (MDS) based on inequality was performed on relative humidity, light intensity, and soil pH. There are eleven exotic plant species consisted of three tree species and eight species of herbs/shrubs. Austroeupatorium inulifolium and Camellia sinensis andare the exotic species with the highest and the lowest WRAP score, respectively. MDS analysis shows that exotic tree species have similar environmental variables. Moreover, environmental variables of arerela tively Cli demiahirta different from other exotic species found in the Halimun-Salak corridor. Recommendations for the management of invasive exotic plant species in the area are: immediate management implementation, priority of eradication to exotic plants that have not been abundant but have high risk score, two management options (gradual eradication or containment) should be considered for exotic plants with very high WRAP score, such as Ageratina riparia, Austroeupatorium inulifolium and Chromolaena odorataand.
+%Z Cited By :6
+Export Date: 8 June 2022
+Correspondence Address: Junaedi, D.I.; Cibodas Botanical Garden, Indonesian Institute of Sciences (LIPI), PO. BOX 19 SDL Sindanglaya, Cipanas, Cianjur 43253, Indonesia; email: deqee82@gmail.com
+%U https://www.scopus.com/inward/record.uri?eid=2-s2.0-84905692455&doi=10.11598%2fbtb.2014.21.1.4&partnerID=40&md5=72b7aaebe9cc4b39a02f65de3d9c5871
+%+ Cibodas Botanical Garden, Indonesian Institute of Sciences (LIPI), PO. BOX 19 SDL Sindanglaya, Cipanas, Cianjur 43253, Indonesia
+Centre for Plant Conservation, Bogor Botanical Garden, Indonesian Institute of Sciences (LIPI), Indonesia
+%~ Scopus
+%G English
+
+%0 Journal Article
+%A Krajšek, S. S.
+%A Bahčič, E.
+%A Čoko, U.
+%A Koce, J. D.
+%D 2020
+%T Disposal methods for selected invasive plant species used as ornamental garden plants
+%B Management of Biological Invasions
+%V 11
+%N 2
+%P 293-305
+%9 Article
+%! Disposal methods for selected invasive plant species used as ornamental garden plants
+%O Manag. Biol. Invasions
+%@ 19898649 (ISSN)
+%R 10.3391/mbi.2020.11.2.08
+%K Garden waste
+Invasive plant species
+Mulch
+Regeneration
+Rooting
+Vegetative reproduction
+%X Invasive alien plant species are frequently grown as ornamental plants in gardens. Until recently, in Slovenia, there were neither specific collection centres for a safe disposal of invasive plant species, nor any legislation that defined procedures for their removal and disposal. We investigated in two experiments how to dispose of pieces of selected invasive plant species, with the aim to prevent their survival and further dispersion. In the first experiment, we chose eight species that are known for spreading by either growing from pieces of cut stem (Cornus sericea, Parthenocissus quinquefolia, Buddleja davidii) or through subterranean rhizomes and tubers (Solidago canadensis, Solidago gigantea, Rudbeckia laciniata, Helianthus tuberosus, Symphyotrichum novae-angliae). The plant fragments were exposed to three different storage treatments: drying, composting on an open compost heap, and storage in black bin liners, all of which can be used in the home garden. After 5 months of storage, the materials were planted in box planters, and their development was monitored. Drying and composting was highly efficient for disposal, as the conditions destroyed the majority of the plant material. However, storage in a bin liner was inefficient because it did not kill any of the plant species tested, and did not delay their growth of new roots. In the second experiment we investigated selected woody invasive plants (Cornus sericea, Parthenocissus quinquefolia, Buddleja davidii, Acer negundo, Forsythia × intermedia) to determine whether their branch fragments can sprout new roots, and whether shredding of their branches represents an efficient dispersal pathway. These dried fragments did not grow roots under any circumstances, while freshly shredded fragments rooted in some cases. Therefore, the use of mulch that has not been treated properly might allow dispersal of woody invasive plants. We can conclude that not all recommended treatments for invasive plant disposal are equally successful to prohibit plant survival and further spread. © Strgulc Krajšek et al.
+%Z Cited By :3
+Export Date: 14 June 2022
+Correspondence Address: Krajšek, S.S.; Department of Biology, Večna pot 111, Slovenia; email: simona.strgulc@bf.uni-lj.si
+%U https://www.scopus.com/inward/record.uri?eid=2-s2.0-85085601872&doi=10.3391%2fmbi.2020.11.2.08&partnerID=40&md5=fdcd2e9cc0e44c6461e2a1ed73c36228
+%+ Department of Biology, Biotechnical Faculty, University of Ljubljana, Večna pot 111, Ljubljana, SI-1000, Slovenia
+%~ Scopus
+%G English
+
+%0 Journal Article
+%A Kriticos, D. J.
+%A Watt, M. S.
+%A Potter, K. J. B.
+%A Manning, L. K.
+%A Alexander, N. S.
+%A Tallent-Halsell, N.
+%D 2011
+%T Managing invasive weeds under climate change: Considering the current and potential future distribution of Buddleja davidii
+%B Weed Research
+%V 51
+%N 1
+%P 85-96
+%9 Article
+%! Managing invasive weeds under climate change: Considering the current and potential future distribution of Buddleja davidii
+%O Weed Res.
+%@ 00431737 (ISSN)
+%R 10.1111/j.1365-3180.2010.00827.x
+%K Buddleja
+Climate change
+Climate modelling
+CLIMEX
+Invasive alien species
+Niche modelling
+climate modeling
+colonization
+geographical distribution
+horticulture
+invasive species
+ornamental species
+resource allocation
+shrub
+subtropical region
+weed control
+Australia
+China
+Europe
+New Zealand
+Buddleja davidii
+%X Buddleja davidii is both a prized garden ornamental and an invasive shrub that rapidly colonises disturbed ground. Originally from China, B. davidii has been widely distributed by horticulturalists and has subsequently invaded much of Europe and New Zealand, and to a lesser degree the Americas and Australia. The present and future climate suitability for B. davidii was assessed using a process-oriented climate suitability model. There appears to be a considerable scope for further invasion, with the most suitable areas occurring adjacent to existing naturalised populations in the north-eastern United States, north-eastern Europe, south-eastern Australia and south-eastern New Zealand. Under future climates, the potential distribution and climate suitability for B. davidii increases most noticeably in the northern United States and southern Canada, northern and eastern Europe, and to a lesser extent in the south-western part of the South Island of New Zealand. Elsewhere, there are projected poleward range shifts (South America) or range contractions out of subtropical areas (Africa and Australia). Climate-based potential distribution models can help adapt weed management programmes to expected climate changes by: (i) classifying areas for the different types of weed management, (ii) supporting strategic control initiatives to prevent the spread of a weed, (iii) informing the reallocation of resources away from controlling a weed where climate suitability is expected to diminish in the future and (iv) identifying opportunities for relatively inexpensive preventative management to be applied to minimise future weed impacts. © 2010 CSIRO. Weed Research © 2010 European Weed Research Society.
+%Z Cited By :43
+Export Date: 14 June 2022
+CODEN: WEREA
+Correspondence Address: Kriticos, D.J.; CSIRO Ecosystem Sciences, GPO Box 1700, Canberra, ACT 2601, Australia; email: Darren.Kriticos@csiro.au
+%U https://www.scopus.com/inward/record.uri?eid=2-s2.0-78650979292&doi=10.1111%2fj.1365-3180.2010.00827.x&partnerID=40&md5=0277d473d4a2e572df06b6734251ffed
+%+ CSIRO Ecosystem Sciences and the Climate Adaptation Flagship, Canberra, ACT, Australia
+Scion, Fendalton, Christchurch, New Zealand
+CSIRO Ecosystem Sciences, Hobart, TAS, Australia
+National Park Services, Mojave Desert Network Inventory and Monitoring, Boulder City, NV, United States
+%~ Scopus
+%G English
+
+%0 Journal Article
+%A McAlpine, K. G.
+%A Drake, D. R.
+%D 2003
+%T The effects of small-scale environmental heterogeneity on seed germination in experimental treefall gaps in New Zealand
+%B Plant Ecology
+%V 165
+%N 2
+%P 207-215
+%! The effects of small-scale environmental heterogeneity on seed germination in experimental treefall gaps in New Zealand
+%@ 1385-0237
+%R http://dx.doi.org/10.1023/A:1022247707932
+%K introduced species
+invasive species
+natural regeneration
+pines
+seed germination
+trees
+woody plants
+%X Seed germination of woody species was studied in treefall gaps in New Zealand to assess how environmental heterogeneity affects regeneration from seed. Gaps were created in a relictual Pinus radiata plantation destined for restoration to native forest. Seeds of the native species Alectryon excelsus, Macropiper excelsum, and Fuchsia excorticata, and the invasive alien species Cytisus scoparius and Berberis darwinii were sown in sites differing in exposure, with and without 3 cm of pine litter. Litter promoted germination of Alectryon and Macropiper, independent of site. Without litter, percent germination of Macropiper was negatively correlated with percent open sky overhead. Germination of Fuchsia was significantly higher in treefall gaps than in the forest understorey, with litter having little effect. Cytisus germinated most successfully in sites exposed to direct solar radiation, with or without litter. Percent germination of Berberis was high in all sites, and was consistently promoted by litter. Glasshouse trials for each species showed the same effects of litter cover as found in the field. These results suggest that microenvironmental heterogeneity can be an important influence on the species composition of regenerating vegetation within and around treefall gaps.
+%+ Dordrecht
+%G English
+
+%0 Journal Article
+%A McAlpine, K. G.
+%A Jesson, L. K.
+%D 2007
+%T Biomass allocation, shade tolerance and seedling survival of the invasive species Berberis darwinii (Darwin's barberry)
+%B New Zealand Journal of Ecology
+%V 31
+%N 1
+%P 1-12
+%! Biomass allocation, shade tolerance and seedling survival of the invasive species Berberis darwinii (Darwin's barberry)
+%@ 0110-6465
+%K dry matter distribution
+environmental factors
+growth
+invasive species
+leaf area
+leaves
+light relations
+seedlings
+survival
+weed control
+weeds
+%X Berberis darwinii (Berberidaceae) is a serious environmental weed in New Zealand, capable of invading a range of different light environments from grazed pasture to intact forest. According to optimal partitioning models, some plants optimise growth under different environmental conditions by shifting biomass allocation among tissue types (e.g. roots, shoots) to maximise the capture of limiting resources (e.g. water, light). We examined patterns of growth, biomass allocation, and seedling survival in Berberis darwinii to determine whether any of these factors might be contributing to invasion success. Growth and biomass allocation parameters were measured on seedlings grown for 7 months in five natural light environments in the field. Survival was high in the sunniest sites, and low in the shadiest sites. Seedlings grown in full sun were an order of magnitude taller and heavier, had five times as many leaves, and proportionally more biomass allocated to leaves than seedlings grown in other light environments. In the shade, leaves were bigger and thinner, and leaf area as a proportion of total plant biomass increased, but the proportion of above- to below-ground biomass was similar across all light and soil moisture environments. In summary, although leaf traits were plastic, patterns of biomass allocation did not vary according to optimal partitioning models, and were not correlated with patterns of seedling survival. Implications for the management of this invasive species are discussed.
+%U http://www.nzes.org.nz/nzje/
+%+ Christchurch
+%G English
+
+%0 Journal Article
+%A McAlpine, K. G.
+%A Jesson, L. K.
+%A Kubien, D. S.
+%D 2008
+%T Photosynthesis and water-use efficiency: a comparison between invasive (exotic) and non-invasive (native) species
+%B Austral Ecology
+%V 33
+%N 1
+%P 10-19
+%! Photosynthesis and water-use efficiency: a comparison between invasive (exotic) and non-invasive (native) species
+%@ 1442-9985
+%R http://dx.doi.org/10.1111/j.1442-9993.2007.01784.x
+%K invasive species
+photosynthesis
+plant competition
+plant water relations
+seedlings
+transpiration
+water use efficiency
+%X Invasive species have been hypothesized to out-compete natives though either a Jack-of-all-trades strategy, where they are able to utilize resources effectively in unfavourable environments, a master-of-some, where resource utilization is greater than its competitors in favourable environments, or a combination of the two (Jack-and-master). We examined the invasive strategy of Berberis darwinii in New Zealand compared with four co-occurring native species by examining germination, seedling survival, photosynthetic characteristics and water-use efficiency of adult plants, in sun and shade environments. Berberis darwinii seeds germinated more in shady sites than the other natives, but survival was low. In contrast, while germination of B. darwinii was the same as the native species in sunny sites, seedling survival after 18 months was nearly twice that of the all native species. The maximum photosynthetic rate of B. darwinii was nearly double that of all native species in the sun, but was similar among all species in the shade. Other photosynthetic traits (quantum yield and stomatal conductance) did not generally differ between B. darwinii and the native species, regardless of light environment. Berberis darwinii had more positive values of 13C than the four native species, suggesting that it gains more carbon per unit water transpired than the competing native species. These results suggest that the invasion success of B. darwinii may be partially explained by combination of a Jack-of-all-trades scenario of widespread germination with a master-of-some scenario through its ability to photosynthesize at higher rates in the sun and, hence, gain a rapid height and biomass advantage over native species in favourable environments.
+%U http://www.blackwell-synergy.com/loi/aec
+%+ Melbourne
+%G English
+
+%0 Journal Article
+%A Morin, L.
+%A Hill, R. L.
+%A Matayoshi, S.
+%D 1997
+%T Hawaii's successful biological control strategy for mist flower (Ageratina riparia) - can it be transferred to New Zealand?
+%B Biocontrol News and Information
+%V 18
+%N 3
+%P 77N-88N
+%! Hawaii's successful biological control strategy for mist flower (Ageratina riparia) - can it be transferred to New Zealand?
+%@ 0143-1404
+%K agricultural entomology
+beneficial arthropods
+beneficial insects
+beneficial organisms
+biological control
+biological control agents
+control
+introduced species
+invasive species
+natural enemies
+pathogens
+pest control
+plant diseases
+plant pathogenic fungi
+plant pathogens
+plant pathology
+weed control
+weeds
+%X The biological control of mist flower (Ageratina riparia) in Hawaii is discussed. Climate data from sites in Hawaii where mist flower infestations have been significantly reduced by biological agents were used to extrapolate optimum conditions for maximum activity of agents. Overall, the most important control agent for mist flower in Hawaii appears to be the fungus Entyloma ageratinae, followed by the gall fly Procecidochares alani and then the plume moth Oidaematophorus beneficus [Leioptilus beneficus]. The feasibility of introducing these successful agents from Hawaii to New Zealand was examined. The annual rainfall in New Zealand is sufficient to support high activity of the agents, especially the fungus. Temperatures should be adequate for half the year, and ideal in summer. A biological control programme could be established for mist flower in New Zealand by introducing the fungus, followed by the gall fly.
+%G English
+
+%0 Journal Article
+%A Mukula, J.
+%A Raatikainen, M.
+%A Lallukka, R.
+%A Raatikainen, T.
+%D 1969
+%T Composition of weed flora in spring cereals in Finland
+%B Annales Agriculturae Fenniae
+%V 8
+%N 2
+%P 59-110
+%! Composition of weed flora in spring cereals in Finland
+%K cereals
+chemical control
+control
+crop husbandry
+crop production
+environmental factors
+flora
+techniques
+weed control
+weeds
+wild relatives
+%X The results of a survey carried out at 32 locations in Finland during 1962 to '64 showed that the commonest annual weeds in spring cereals were, Galeopsis spp., Chenopodium album, Spergula arvensis, Stellaria media, Viola arvensis and V. tricolor, Erysimum cheiranthoides, Polygonum lapathifolium, Myosotis spp., P. convolvulus and Lapsana communis. The commonest perennial species were Ranunculus repens, Achillea millefolium, Rumex spp. (sorrels), Agropyron repens[Elymus repens], Equisetum arvense, Vicia cracca, Achillea ptarmica, Cirsium arvense, Trifolium spp. (not T. pratense) and Taraxacum spp. Data are given of species frequency and density at the respective locations, together with detailed accounts and distribution maps of the occurrence of the 41 counted taxa and the effect on the weed flora of various environmental factors, crop husbandry techniques and chemical weed control.-J.L.M.
+%G English
+
+%0 Journal Article
+%A Naburga, I.
+%A Evarts-Bunders, P.
+%D 2019
+%T Status of Some Escaped Ornament Perennials in the Flora of Latvia
+%B Botanica
+%V 25
+%N 2
+%P 131-144
+%9 Review
+%! Kai kuriu plintanciu dekoratyviniu daugiameciu augalu statusas latvijos floroje
+%O Botanica
+%@ 25388649 (ISSN)
+%R 10.2478/botlit-2019-0015
+%K adaptation
+casual aliens
+cultivars
+naturalization
+ornamental perennials
+%X This paper introduces eight ornamental perennial garden escapees that were recorded by the authors of this article on Lucavsala Island, Riga (Latvia) in 2016. Our data on Achillea ptarmica cv. 'Boule de Neige', Artemisia ludoviciana, Asclepias syriaca, Campanula lactiflora, Heliopsis helianthoides, Lathyrus latifolius, Phlox paniculata and Rudbeckia hirta contribute to the knowledge about the occurrence of these taxa in wild. All these species are also growing in the collection of ornamental perennials in the Botanical Garden of the University of Latvia. A review of these species in Latvian herbarium collections has been conducted. Five species, Heliopsis helianthoides, Artemisia ludoviciana, Campanula lactiflora, Lathyrus latifolius, Phlox paniculata, were observed for the first time outside cultivation forming relatively stable, reproducing populations. Two species, Achillea ptarmica multiplex cultivar and Rudbeckia hirta, were previously observed in seminatural habitats and, thus, considered as casual aliens at the naturalization stage. One of the species, Asclepias syriaca, was considered a new to Latvia casual alien species with high potential of invasiveness. © 2019 Inese Naburga et al., published by Sciendo 2019.
+%Z Cited By :3
+Export Date: 8 June 2022
+Correspondence Address: Naburga, I.; Botanical Garden of the University of Latvia, Kandavas Str. 2, Latvia; email: inese.naburga@lu.lv
+%U https://www.scopus.com/inward/record.uri?eid=2-s2.0-85102183134&doi=10.2478%2fbotlit-2019-0015&partnerID=40&md5=0fce9fb00eea8e5dda17c3f1a44c1458
+%+ Botanical Garden of the University of Latvia, Kandavas Str. 2, Riga, LV-1083, Latvia
+Institute of Life Sciences and Technologies, Daugavpils University, Parades Str. 1a, Daugavpils, LV-5401, Latvia
+%~ Scopus
+%G English
+
+%0 Journal Article
+%A Orchard, H. E.
+%A O'Neil, J. M.
+%D 1958
+%T Three-cornered garlic (Allium triquetrum L.)
+%B Journal of the Department of Agriculture of South Australia
+%V 61
+%N 6
+%P 283-4
+%! Three-cornered garlic (Allium triquetrum L.)
+%K 2,4-D
+control
+garlic
+pastures
+weeds
+%X For the control of this weed of pastures a 0-2% 2, 4-D solution is recommended. It should be applied at the bud-orming to early-lowering stages.-M.P.
+%Z illus.//
+%G English
+
+%0 Journal Article
+%A Parihar, S. S.
+%A Kanodia, K. C.
+%D 1987
+%T Beware of the exotic weeds
+%B Indian Farming
+%V 37
+%N 9
+%P 24-27
+%! Beware of the exotic weeds
+%@ 0019-4786
+%K allelopathy
+ecology
+flora
+introduced species
+invasive species
+poisonous plants
+Poisonous weeds
+seed dispersal
+seeds
+weeds
+%X Brief accounts of the dispersal mechanisms and harmful effects are provided for a number of weed species introduced into India during the last century. Particular reference is made to the allelopathic properties of Parthenium hysterophorus, Lantana camara var. aculeata and Eupatorium riparium. Xanthium strumarium and Tribulus terrestris are cited in relation to their seed dispersal mechanism. Weeds other than P. hysterophorus possessing toxic principles that harm livestock include T. terrestris, L. camara and Agrostemma githago, while seeds of Argemone mexicana are toxic to humans.
+%G English
+
+%0 Journal Article
+%A Peter, A.
+%A Žlabur, J. Š
+%A Šurić, J.
+%A Voća, S.
+%A Purgar, D. D.
+%A Pezo, L.
+%A Voća, N.
+%D 2021
+%T Invasive plant species biomass—evaluation of functional value
+%B Molecules
+%V 26
+%N 13
+%9 Article
+%! Invasive plant species biomass—evaluation of functional value
+%O Molecules
+%@ 14203049 (ISSN)
+%R 10.3390/molecules26133814
+%2 34206657
+%] 3814
+%K Antioxidant capacity
+Biowaste
+Nonnative species
+Phytochemicals
+Polyphenols
+Weeds
+phytochemical
+plant extract
+biomass
+chemistry
+introduced species
+plant
+Plant Extracts
+Plants
+%X Invasive plant species (IAS), with their numerous negative ecological, health, and economic impacts, represent one of the greatest conservation challenges in the world. Reducing the negative impacts and potentially exploiting the biomass of these plant species can significantly con-tribute to sustainable management, protect biodiversity, and create a healthy environment. There-fore, the main objective of this study was to evaluate the nutritional potential, phytochemical status, and antioxidant capacity of nine alien invasive plant species: Abutilon theophrasti, Amaranthus retro-flexus, Ambrosia artemisiifolia, Datura stramonium, Erigeron annuus, Galinsoga ciliata, Reynoutria japon-ica, Solidago gigantea, and Sorghum halepense. Multivariate statistical methods such as cluster and PCA were performed to determine possible connections and correlations among selected IAS de-pending on the phytochemical content. According to the obtained results, R. japonica was notable with the highest content of vitamin C (38.46 mg/100 g FW); while E. annuus (1365.92 mg GAE/100 g FW) showed the highest values of total polyphenolic compounds. A. retroflexus was characterized by the highest content of total chlorophylls (0.26 mg/g) and antioxidant capacity (2221.97 μmol TE/kg). Therefore, it can be concluded that the selected IAS represent nutrient‐rich plant material with significant potential for the recovering of bioactive compounds. © 2021 by the authors. Licensee MDPI, Basel, Switzerland.
+%Z Cited By :1
+Export Date: 9 June 2022
+CODEN: MOLEF
+Correspondence Address: Žlabur, J.Š.; Department of Agricultural Technology, Svetošimunska Cesta 25, Croatia; email: jszlabur@agr.hr
+%U https://www.scopus.com/inward/record.uri?eid=2-s2.0-85109084498&doi=10.3390%2fmolecules26133814&partnerID=40&md5=91876ccfcedb7ebbc939b0cc9a5062b7
+%+ Department of Agricultural Technology, Storage and Transport, Faculty of Agriculture, University of Zagreb, Svetošimunska Cesta 25, Zagreb, 10000, Croatia
+Department of Agricultural Botany, Faculty of Agriculture, University of Zagreb, Svetošimunska Cesta 25, Zagreb, 10000, Croatia
+Institute of General and Physical Chemistry, Engineering Department, University of Belgrade, Studentski Trg 12/V, Belgrade, 11000, Serbia
+%~ Scopus
+%G English
+
+%0 Journal Article
+%A Pritchard, G. H.
+%D 1996
+%T Efficacy of herbicides against angled onion in pot trials
+%B Proceedings of the 11th Australian Weeds Conference, Melbourne, Australia, 30 September - 3 October 1996
+%P 480-484
+%& Proceedings of the 11th Australian Weeds Conference, Melbourne, Australia, 30 September - 3 October, 1996.
+%! Efficacy of herbicides against angled onion in pot trials
+%K 2,4-D
+chemical control
+chlorimuron
+chlorsulfuron
+dicamba
+fluroxypyr
+glufosinate
+glufosinate-P
+glyphosate
+herbicide mixtures
+herbicides
+imazethapyr
+metsulfuron
+surfactants
+thifensulfuron
+tribenuron
+weed control
+weeds
+%X Angled onion (Allium triquetrum L.) is a bulbous perennial which is a weed of damp sites in urban areas and nearby bushland in southern Victoria. In a series of glasshouse pot trials 12 herbicides were evaluated for activity against angled onion. The most active herbicides were metsulfuron methyl, chlorsulfuron, thifensulfuron methyl/metsulfuron methyl, chlorimuron ethyl, tribenuron methyl, and imazethapyr, followed by glyphosate, glufosinate and 2,4-D amine and ester. Dicamba was less effective and fluroxypyr gave no control. Metsulfuron methyl, chlorsulfuron, and imazethapyr were ineffective without the addition of an adjuvant. Metsulfuron methyl and imazethapyr were enhanced more by the surfactants BS1000 and Pulse at concentrations of 0.5% v/v than at 0.1% v/v. Control by glyphosate at 180 g 100 L-1 was significantly improved by the addition of Pulse, Activator, BS1000 and LI-700, and Pulse conferred rainfastness on glyphosate. Control with 2,4-D amine was improved by Pulse and Activator but these two surfactants and BS1000 did not enhance glufosinate.
+%+ Victoria
+%G English
+
+%0 Journal Article
+%A Pyšek, P.
+%A Danihelka, J.
+%A Sádlo, J.
+%A Chrtek Jr, J.
+%A Chytrý, M.
+%A Jarošík, V.
+%A Kaplan, Z.
+%A Krahulec, F.
+%A Moravcová, L.
+%A Pergl, J.
+%A Štajerová, K.
+%A Tichý, L.
+%D 2012
+%T Catalogue of alien plants of the Czech Republic (2nd edition): Checklist update, taxonomic diversity and invasion patterns
+%B Preslia
+%V 84
+%N 2
+%P 155-255
+%9 Article
+%! Catalogue of alien plants of the Czech Republic (2nd edition): Checklist update, taxonomic diversity and invasion patterns
+%O Preslia
+%@ 00327786 (ISSN)
+%K Abundance
+Alien flora
+Casual
+Checklist
+Cover in plant communities
+Czech Republic
+Exotic species
+Geographic origin
+Habitat niche
+Hybridization
+Impact
+Introduction-naturalization-invasion continuum
+Invasive plants
+Life history
+Naturalized
+Non-native species
+Residence time
+Taxonomy
+biological invasion
+coniferous tree
+cultivation
+dicotyledon
+evergreen tree
+habitat type
+invasive species
+metapopulation
+monocotyledon
+new record
+plant community
+population pressure
+propagule
+shrub
+species diversity
+species inventory
+Abies
+Abies concolor
+Abies grandis
+Abies nordmanniana
+Avena
+Avena sterilis subsp. ludoviciana
+Berberis
+Berberis julianae
+Berberis thunbergii
+Bidens
+Buddleja
+Buddleja alternifolia
+Buglossoides
+Buxus
+Buxus sempervirens
+Corispermum
+Cotoneaster
+Cotoneaster divaricatus
+Euphorbia
+Euphorbia myrsinites
+Gleditsia
+Gleditsia triacanthos
+Helleborus orientalis
+Hieracium
+Koelreuteria paniculata
+Lonicera
+Lonicera periclymenum
+Lotus ornithopodioides
+Malus
+Malus baccata
+Malus pumila
+Miscanthus sacchariflorus
+Morus alba
+Muscari armeniacum
+Paeonia lactiflora
+Pennisetum
+Pennisetum alopecuroides
+Pinguicula crystallina subsp. hirtiflora
+Pyracantha
+Pyracantha coccinea
+Rhodotypos scandens
+Rumex
+Rumex patientia
+Salix
+Salix cordata
+Sarracenia purpurea
+Sasa
+Sasa palmata
+Scolymus
+Scolymus maculatus
+Sinopodophyllum hexandrum
+Spiraea
+Spiraea japonica
+Tagetes
+Tagetes patula
+Thuja occidentalis
+Trifolium
+Trifolium badium
+Vaccinium
+Vaccinium corymbosum
+Veratrum
+Viburnum
+Viburnum rhytidophyllum
+%X A complete list of all alien taxa ever recorded in the flora of the Czech Republic is presented as an update of the original checklist published in 2002. New data accumulated in the last decade are incorporated and the listing and status of some taxa are reassessed based on improved knowledge. Alien flora of the Czech Republic consists of 1454 taxa listed with information on their taxonomic position, life history, geographic origin (or mode of origin, distinguishing anecophyte and hybrid), invasive status (casual; naturalized but not invasive; invasive), residence time status (archaeophyte vs neophyte), mode of introduction into the country (accidental, deliberate), and date of the first record. Additional information on species performance that was not part of the previous catalogue, i.e. on the width of species' habitat niches, their dominance in invaded communities, and impact, is provided. The Czech alien flora consists of 350 (24.1%) archaeophytes and 1104 (75.9%) neophytes. The increase in the total number of taxa compared to the previous catalogue (1378) is due to addition of 151 taxa and removal of 75 (39 archaeophytes and 36 neophytes), important part of the latter being the reclassification of 41 taxa as native, mostly based on archaeobotanical evidence. The additions represent taxa newly recorded since 2002 and reported in the national literature; taxa resulting from investigation of sources omitted while preparing the previous catalogue; redetermination of previously reported taxa; reassessment of some taxa traditionally considered native for which the evidence suggests the opposite; and inclusion of intraspecific taxa previously not recognized in the flora. There are 44 taxa on the list that are reported in the present study for the first time as aliens introduced to the Czech Republic or escaped from cultivation: Abies concolor, A. grandis, A. nordmanniana, Avena sterilis subsp. ludoviciana, A. ×vilis, Berberis julianae, B. thunbergii, Bidens ferulifolius, Buddleja alternifolia, Buglossoides incrassata subsp. splitgerberi, Buxus sempervirens, Corispermum declinatum, Cotoneaster dielsianus, C. divaricatus, Euphorbia myrsinites, Gleditsia triacanthos, Helleborus orientalis, Hieracium heldreichii, Koelreuteria paniculata, Lonicera periclymenum, Lotus ornithopodioides, Malus baccata, M. pumila, Miscanthus sacchariflorus, Morus alba, Muscari armeniacum, Paeonia lactiflora, Pennisetum alopecuroides, Pinguicula crystallina subsp. hirtiflora, P. grandiflora subsp. rosea, Podophyllum hexandrum, Pyracantha coccinea, Rhodotypos scandens, Rumex patientia × R. tianschanicus 'Uteuša', Salix cordata, Sarracenia purpurea, Sasa palmata 'Nebulosa', Scolymus maculatus, Spiraea japonica, Tagetes tenuifolia, Thuja occidentalis, Trifolium badium, Vaccinium corymbosum and Viburnum rhytidophyllum. All added and deleted taxa are commented on. Of the total number of taxa, 985 are classified as casuals, 408 as naturalized but not invasive, and 61 as invasive. The reduction in the number of invasive taxa compared to the previous catalogue is due to a more conservative approach adopted here; only taxa that currently spread are considered invasive. Casual taxa are strongly overrepresented among neophytes compared to archaeophytes (76.7% vs 39.4%), while naturalized but non-invasive taxa follow the reversed pattern (18.8% vs 57.4). However, these two groups do not significantly differ in the proportion of invasive taxa. Of introduced neophytes, 250 taxa (22.6%) are considered vanished, i.e. no longer present in the flora, while 23.3% became naturalized, and 4.5% invasive. In addition to the traditional classification based on introduction-naturalization-invasion continuum, taxa were classified into 18 population groups based on their long-term trends in metapopulation dynamics in the country, current state of their populations, and link to the propagule pressure from cultivation. Mapping these population groups onto the unified framework for biological invasions introduced by Blackburn et al. in 2011 made it possible to quantify invasion failures, and boom-and-busts, in the Czech alien flora. Depending on inclusion criteria (whether or not extinct/vanished taxa and hybrids are considered), alien taxa ever recorded in the Czech Republic contribute 29.7-33.1% to the total country's plant diversity; taking into account only naturalized taxa, a permanent element of the country's flora, the figure is 14.4-17.5%. Analysis of the dates of the first record, known for 771 neophytes, indicates that alien taxa in the flora have been increasing at a steady pace without any distinct deceleration trend; by extrapolating this data to all 1104 neophytes recorded it is predicted that the projected number would reach 1264 in 2050. Deliberate introduction was involved in 747 cases (51.4%), the remaining 48.6% of taxa are assumed to have arrived by unintentional pathways. Archaeophytes are more abundant in landscapes, occupy on average a wider range of habitat types than neophytes, but reach a lower cover in plant communities. The alien flora is further analysed with respect to representation of genera and families, origin and life history.
+%Z Cited By :275
+Export Date: 7 June 2022
+Correspondence Address: Pyšek, P.; Institute of Botany, , CZ-252 43 Průhonice, Czech Republic; email: pysek@ibot.cas.cz
+%U https://www.scopus.com/inward/record.uri?eid=2-s2.0-84863423281&partnerID=40&md5=b01a5f21aef53f32236969da71d11009
+%+ Institute of Botany, Academy of Sciences of the Czech Republic, CZ-252 43 Průhonice, Czech Republic
+Department of Ecology, Faculty of Science, Charles University in Prague, Viničná 7, CZ- 128 44 Prague, Czech Republic
+Department of Botany and Zoology, Masaryk University, Kotlářská 2, CZ-611 37 Brno, Czech Republic
+Department of Botany, Faculty of Science, Charles University in Prague, Benátská 2, CZ-128 01 Prague, Czech Republic
+%~ Scopus
+%G English
+
+%0 Journal Article
+%A Rai, J. P. N.
+%A Tripathi, R. S.
+%D 1984
+%T Allelopathic effects of Eupatorium riparium on population regulation of two species of Galinsoga and soil microbes
+%B Plant and Soil
+%V 80
+%N 1
+%P 105-117
+%9 Article
+%! Allelopathic effects of Eupatorium riparium on population regulation of two species of Galinsoga and soil microbes
+%O Plant Soil
+%@ 0032079X (ISSN)
+%R 10.1007/BF02232944
+%K Allelopathy
+Leaf leachate
+Litter
+Plant extract
+Population regulation
+Soil microbes
+Weed biology
+%X Allelopathic effect of Eupatorium riparium Regel, a dominant ruderal weed at higher altitudes in Meghalaya state in north-eastern India, was studied on two common sympatric annual weeds, Galinsoga ciliata (Raf.) and G. parviflora Cav. and on soil microbes. Seed germination and radicle and plumule growth of both species of Galinsoga were suppressed by the aqueous extract and leachate of E. riparium. Although the leaf leachate, leaf and litter extracts and litter bed caused considerable reduction in leaf area and seed and dry matter production in both species of Galinsoga, the effect was much more pronounced on G. parviflora. The inhibitory effect was directly correlated with the concentration of the extract and leachate. The soil microbial population and growth of the Galinsoga spp. declined considerably in the experimental pots where the soil had earlier received leachate of different plant parts of E. riparium growing in it. The presence of the partly decomposed litter of E. riparium in the pots reduced soil microbial population and growth of the two weeds much more strongly as compared to the litter in the advanced stages of decomposition. The study also revealed that the abundance and colony growth of the two test fungi viz. Trichoderma viride and Aspergillus flavus were differentially affected by the allelopathy of E. riparium; T. viride being favoured and A. flavus inhibited. © 1984 Martinus Nijhoff/Dr W. Junk Publishers.
+%Z Cited By :17
+Export Date: 8 June 2022
+CODEN: PLSOA
+Correspondence Address: Rai, J.P.N.; Botany Department, School of Life Sciences, , Shillong, 793 014, India
+%U https://www.scopus.com/inward/record.uri?eid=2-s2.0-0042955787&doi=10.1007%2fBF02232944&partnerID=40&md5=0f190d7b67c5470aa09d2c53981fd765
+%+ Botany Department, School of Life Sciences, North-Eastern Hill University, Shillong, 793 014, India
+%~ Scopus
+%G English
+
+%0 Journal Article
+%A Scursoni, J.
+%A Martín, A.
+%A Abbati, P.
+%A Bastanchuri, M.
+%A Gueventter, M.
+%A Iorio, D. E.
+%A Pulido, A.
+%A Sherriff, T.
+%A Quistre, J.
+%D 2021
+%T Growth, survival and fecundity of Avena fatua L. individuals treated with ALS and ACCase inhibitor herbicides
+%B Revista de Investigaciones Agropecuarias
+%V 47
+%N 3
+%P 361-366
+%9 Article
+%! Crecimiento, supervivencia y fecundidad de individuos de Avena fatua L. tratados con herbicidas inhibidores de ALS e inhibidores de ACCasa
+%O Revista de Investigaciones Agropecuarias
+%@ 03258718 (ISSN)
+%K ACcase
+ALS
+Grass weeds
+Weeds on wheat
+%X Wild oat (Avena fatua L.) is one of the most frequent weeds of winter cereals in Argentina. Its control is carried out mainly with the application of ACCase and ALS inhibitor herbicides. The efficacy of these herbicides is evaluated by visual control and survival, without considering other demographic processes such as fecundity. Between 2012 and 2015, seven experiments were carried out at the Faculty of Agronomy of the University of Buenos Aires. The objective was to study the effect of three ALS inhibitors (pyroxsulam, iodosulfuron + mesosufuron, imazamox) and two ACCase inhibitors (fenoxaprop and pinoxaden) on the survival, growth and fecundity of wild oat individuals. In addition, the effect of the origin of the population (with or without previous application of herbicides) was studied. Each herbicide was applied at five rates (0x, 0.25x, 0.5x, 1x, 1.5x), being x the recommended rate on the label. Survival at 30 and 60 days after treatment and individual biomass at 30 days after treatment and at maturity were evaluated. Fecundity was evaluated by harvesting the seeds of the surviving plants. Thirty days after the herbicides application, at the recommended rate, pinoxadén showed lower survival than the other herbicides. Iodosulfuron + mesosulfuron and imazamox at the recommended rate were more effective than pyroxsulam and fenoxaprop. At 60 days after treatment there were no differences between pinoxaden, iodosulfuron + mesosulfuron and imazamox at the recommended rate and were more effective than fenoxaprop and pyroxsulam. The survivors individuals produced less biomass than the untreated ones. On average, individuals with or without herbicide application produced 31 seeds per gram of individual biomass. © 2021 Instituto Nacional de Tecnologia Agropecuaria. All rights reserved.
+%Z Export Date: 22 June 2022
+Correspondence Address: Scursoni, J.; Universidad De Buenos Aires (UBA), Avda. San Martín 4453 (1417). CABA, Argentina; email: scursoni@agro.uba.ar
+%U https://www.scopus.com/inward/record.uri?eid=2-s2.0-85125902007&partnerID=40&md5=26ae223bc80bf5fb6df3a0283efa4168
+%+ Universidad De Buenos Aires (UBA), Facultad de Agronomía, Avda. San Martín 4453 (1417). CABA, Buenos Aires, Argentina
+%~ Scopus
+%G Spanish
+
+%0 Journal Article
+%A Shahbazi, Nooshin
+%A Flower, Ken C.
+%A Callow, J. Nikolaus
+%A Mian, Ajmal
+%A Ashworth, Michael B.
+%A Beckie, Hugh J.
+%D 2021
+%T Comparison of crop and weed height, for potential differentiation of weed patches at harvest
+%B Weed Research (Oxford)
+%V 61
+%N 1
+%! Comparison of crop and weed height, for potential differentiation of weed patches at harvest
+%@ 0043-1737(print), 1365-3180(electronic)
+%R http://dx.doi.org/10.1111/wre.12450
+%K Australia
+Australasian region
+Agronomy
+Agriculture
+Climatology
+Environmental Sciences
+Applied and Field Techniques
+Species
+Ornamental Crop
+Compositae
+Common
+Cruciferae
+Grain Crop
+Gramineae
+Tracheophyta
+Ecology: environmental biology - Bioclimatology and biometeorology
+Ecology: environmental biology - Plant
+Agronomy - Miscellaneous and mixed crops
+Agronomy - Grain crops
+Horticulture - Flowers and ornamentals
+Dicotyledones
+Angiospermae
+Spermatophyta
+Plantae
+Angiosperms
+Dicots
+Plants
+Spermatophytes
+Vascular Plants
+Monocotyledones
+Monocots
+%X Weeds and weed control are major production costs in global agriculture, with increasing challenges associated with herbicide-based management because of concerns with chemical residue and herbicide resistance. Non-chemical weed management may address these challenges but requires the ability to differentiate weeds from crops. Harvest is an ideal opportunity for the differentiation of weeds that grow taller than the crop, however, the ability to differentiate late-season weeds from the crop is unknown. Weed mapping enables farmers to locate weed patches, evaluate the success of previous weed management strategies, and assist with planning for future herbicide applications. The aim of this study was to determine whether weed patches could be differentiated from the crop plants, based on height differences. Field surveys were carried out before crop harvest in 2018 and 2019, where a total of 86 and 105 weedy patches were manually assessed respectively. The results of this study demonstrated that across the 191 assessed weedy patches, in 97% of patches with Avena fatua (wild oat) plants, 86% with Raphanus raphanistrum (wild radish) plants and 92% with Sonchus oleraceus L. (sow thistles) plants it was possible to distinguish the weeds taller than the 95% of the crop plants. Future work should be dedicated to the assessment of the ability of remote sensing methods such as Light Detection and Ranging to detect and map late-season weed species based on the results from this study on crop and weed height differences.
+%Z [Author, Reprint Author; E-mail: nooshin.shahbazi@research.uwa.edu.au]
+[Author]
+%U http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=biop47&NEWS=N&AN=PREV202100220301
+
+%0 Journal Article
+%A Soedarsan, A.
+%A Noormandias
+%A Santika, H.
+%D 1976
+%T Effects of some weed species on the growth of young tea
+%B Proceedings of 5th Asian-Pacific Weed Science Society Conference, Tokyo, Japan, 1975.
+%P 87-91
+%& Proceedings of 5th Asian-Pacific Weed Science Society Conference, Tokyo, Japan, 1975.
+%! Effects of some weed species on the growth of young tea
+%K competitive ability
+crops
+ecology
+plant competition
+stimulant plants
+tea
+tropical crops
+weeds
+wild relatives
+%X The effects of seven weed species on the growth of two-year-old tea of the Kiara-8 clone were studied. There were 8 treatments including one control, each in 4 replicates. Each experimental plot contained 49 tea plants. The weeds were planted 4 months after transplanting the tea plants in the field. Observations were made on the growth of the tea plants in a sampling unit (1 X 1 m) in the centre of each experimental plot. Adverse effects of Paspalum conjugatum, Eupatorium riparium and Ageratum houstonianum on the height of the stem and the length and total numbers of primary branches were recognized after two months. Retarding effects of Imperata cylindrica, Artemisia vulgaris and Panicum repens only appeared over a longer period. Borreria alata did not affect the growth of the tea plant. The dense root system and the high rate of regrowth of P. conjugatum, E. riparium and A. houstonianum appeared to be decisive in suppressing the growth of the tea. Yellowing and reduction of the tea leaf size were also observed in plots with P. conjugatum and A. houstonianum.
+%G English
+
+%0 Journal Article
+%A Stuanes, A.
+%D 1972
+%T Long-term changes in the weed flora
+%B Norsk Landbruk
+%V 4
+%P 3-8
+%! Long-term changes in the weed flora
+%@ 0332-5474
+%K change
+chemicals
+colonizing ability
+competitive ability
+control
+Crops
+ecology
+flora
+herbicides
+publications
+species diversity
+surveys
+weed control
+weeds
+wild relatives
+%X The changes in the weed flora observed between 1950 and 1970 at 5 sites throughout Norway on which a variety of crops were grown are discussed. An increase in the following species was noted: Agropyron repens, Agrostis gigantea, Fumaria officinalis, Myosotis arvensis, Poa annua, Achillea ptarmica and Alopecurus geniculatus. The use of herbicides was related to the increases in the first three. Being resistant to chemical treatment, they colonized land previously occupied by more susceptible species. No reasons were apparent for the increases in the other species, nor for the decline of Raphanus raphanistrum, Sinapis arvensis, Senecio vulgaris, Galeopsis speciosa, G. tetrahit and Stellaria media.
+%G Norwegian
+
+%0 Journal Article
+%A Tehranchian, P.
+%A Adair, R. J.
+%A Lawrie, A. C.
+%D 2014
+%T Potential for biological control of the weed Angled Onion (Allium triquetrum) by the fungus Stromatinia cepivora in Australia
+%B Australasian Plant Pathology
+%V 43
+%N 4
+%P 381-392
+%! Potential for biological control of the weed Angled Onion (Allium triquetrum) by the fungus Stromatinia cepivora in Australia
+%@ 0815-3191
+%R http://dx.doi.org/10.1007/s13313-014-0279-6
+%K biological control
+biological control agents
+biotypes
+genes
+genetic markers
+intergenic DNA
+invasive species
+natural enemies
+nucleotide sequences
+random amplified polymorphic DNA
+weed control
+weeds
+%X The fungus Stromatinia cepivora (Berk.) Whetzel, which causes white rot of cultivated Allium species, was assessed as a biological control agent for Angled Onion (Allium triquetrum L.), a widespread noxious invasive environmental weed in southern Australia. A. triquetrum showed relatively little genetic diversity, suggesting it was a suitable target for biological control. Genetic analysis of plants from 23 sites in the three main infested Australian states by internal transcribed spacer (ITS) and randomly amplified polymorphic DNA (RAPD) analysis suggested biotypes of A. triquetrum in Australia grouped by state, except for samples from Westernport Bay and Ararat (Victoria). Pathogenicity and virulence of two S. cepivora isolates were assessed on up to 13 A. triquetrum provenances, 6 cultivated Allium species and 9 Australian endemic monocotyledons in test-tube and pot trials. In test-tubes, sclerotia killed plants from all provenances. In pot trials with sclerotia and mycelium, the more pathogenic isolate killed plants from all but one provenance. No A. triquetrum provenance was resistant to S. cepivora, nor were common cultivated Allium species, but common Australian endemic monocotyledons from habitats infested with A. triquetrum showed no disease symptoms 90 days post-inoculation. S. cepivora thus has potential as a biological control agent for A. triquetrum in native bushland in Australia where the risk of it spreading to horticulturally important Allium species is low and can be controlled.
+%U http://rd.springer.com/article/10.1007/s13313-014-0279-6
+%+ Dordrecht
+%G English
+
+%0 Journal Article
+%A Tehranchian, P.
+%A Adair, R. J.
+%A Van, T. T. H.
+%A Morrison, P. D.
+%A Williams, H.
+%A Lawrie, A. C.
+%D 2020
+%T Biological control of the noxious weed angled onion (Allium triquetrum) thwarted by endophytic bacteria in Victoria, Australia
+%B Australasian Plant Pathology
+%V 49
+%N 4
+%P 373-392
+%! Biological control of the noxious weed angled onion (Allium triquetrum) thwarted by endophytic bacteria in Victoria, Australia
+%@ 0815-3191
+%R http://dx.doi.org/10.1007/s13313-020-00710-y
+%K biological control agents
+biological control
+weeds
+endophytes
+soil fungi
+soil bacteria
+bulbs
+pectin lyase
+polygalacturonase
+cell walls
+genomes
+nucleotide sequences
+growth
+sclerotia
+fungal antagonists
+weed control
+natural enemies
+soil flora
+%X The noxious weed Allium triquetrum (Alliaceae) has invaded widespread areas in southern Australia, forming dense monocultures that threaten indigenous ground flora. Two soilborne biocontrol agents, the fungus Stromatinia cepivora and the bacterium Pectobacterium carotovorum subsp. carotovorum (Pcc) have previously been reported as killing A. triquetrum in gnotobiotic controlled conditions. This study aimed to find why glasshouse pot trials in complex potting media and field trials showed no effect of inoculation with either agent. Bacteria were consistently isolated from inside surface-sterilised bases and bulbs of A. triquetrum. Most bacteria from actively growing plants were closely related to Bacillus but one from dormant bulbs (RPTAtOch1) belonged to Ochrobactrum. Most bacteria reduced soft rot caused by Pcc in vitro by up to 100% when inoculated the day before Pcc. Co-cultivation with Pcc reduced its extracellular pectin lyase and polygalacturonase, which target plant cell walls. RPTAtOch1 was identified as O. quorumnocens by traditional physiological, biochemical and molecular tests, whole genome sequencing and Average Nucleotide Identity comparisons. Its draft genome consisted of 76 contigs, 70% of which were closest to isolate A44 of O. quorumnocens, which antagonises soft rotting of potato by Pcc by destroying its quorum-sensing lactones but, like RPTAtOch1, does not inhibit growth of Pcc. Also, endophytic bacteria inhibited germination of S. cepivora sclerotia and so prevented white rot. Thus, the failure in biocontrol of A. triquetrum by both S. cepivora and Pcc may be due, ironically, to biocontrol of the intended pathogens by endophytic bacteria inside the target weed.
+%U https://link.springer.com/article/10.1007/s13313-020-00710-y
+%+ Dordrecht
+%G English
+
+%0 Journal Article
+%A Tehranchian, P.
+%A Lawrie, A. C.
+%A Adair, R.
+%D 2010
+%T In vitro assessment of Stromatinia cepivora as a potential biological control agent for angled onion (Allium triquetrum) in Victoria, Australia
+%B 17th Australasian weeds conference. New frontiers in New Zealand: together we can beat the weeds. Christchurch, New Zealand, 26-30 September, 2010
+%P 219-222
+%& 17th Australasian weeds conference. New frontiers in New Zealand: together we can beat the weeds. Christchurch, New Zealand, 26-30 September, 2010.
+%! In vitro assessment of Stromatinia cepivora as a potential biological control agent for angled onion (Allium triquetrum) in Victoria, Australia
+%K biological control agents
+genetic diversity
+genetic variation
+micropropagation
+natural enemies
+pathogenicity
+polymerase chain reaction
+provenance
+random amplified polymorphic DNA
+virulence
+weeds
+%X Angled onion (Allium triquetrum L.) is a noxious weed in Australia and is difficult to control, especially in natural habitats. The genetic diversity of 11 provenances was assessed by RAPD-PCR and was relatively small, making it a suitable biological control target. Pathogenicity trials subsequently used five typical provenances in axenic conditions to test the potential of biological control by Stromatinia cepivora (Berk.) Whetzel (Sclerotium cepivorum Berk.), a fatal soil-borne pathogenic fungus of cultivated Allium species. Pathogenicity and virulence of the fungus were assessed using a S. cepivora isolate supplied by DPI Knoxfield. Micropropagation was necessary to free plants from endogenous infection with bacteria. Axenic plants were inoculated with the fungus in test-tubes. The fungus killed plants of all provenances except those from Wonthaggi, Victoria. This study suggests that S. cepivora has the potential to be developed as a mycoherbicide for A. triquetrum but that further provenances and strains need to be investigated.
+%+ Hastings
+%G English
+
+%0 Book Section
+%A Tidemann, B. D.
+%A Geddes, C. M.
+%A Beckie, H. J.
+%D 2021
+%T Avena fatua and Avena sterilis
+%B Biology and Management of Problematic Crop Weed Species, 1st Edition
+%I Elsevier
+%P 43-66
+%! Avena fatua and Avena sterilis
+%O Biology and Management of Problematic Crop Weed Species, 1st Edition
+%@ 9780128229170 (ISBN)
+%R 10.1016/B978-0-12-822917-0.00015-X
+%K Avena fatua
+Avena ludoviciana
+Avena sterilis
+Sterile oat
+Wild oat
+Winter wild oat
+%X This review is updated from Beckie et al. (2012a) and Bajwa et al. (2017). Avena fatua and Avena sterilis are problematic grass weeds with widespread global distributions. Both species can persist in the seed bank for approximately 5 years; however, emergence timing may differ both spatially and temporally. Both species are highly selfing. Herbicidal control of A. fatua and A sterilis is primarily reliant on acetyl-CoA carboxylase and acetolactate synthase inhibitors; however, herbicide resistance has evolved in both species to these modes of action. Both species can cause significant yield losses in a number of field crops, which together with their herbicide resistance profiles, increases the importance of integrated weed management strategies and tactics. © 2021 Elsevier Inc. All rights reserved.
+%Z Export Date: 22 June 2022
+%U https://www.scopus.com/inward/record.uri?eid=2-s2.0-85126810027&doi=10.1016%2fB978-0-12-822917-0.00015-X&partnerID=40&md5=ce92d7582e9e5a82c6cbb34cc4ca46e2
+%+ Agriculture and Agri-Food Canada Research Centre, Lacombe, AB, Canada
+School of Agriculture and Environment, The University of Western Australia, Perth, WA, Australia
+%~ Scopus
+%G English
+
+%0 Journal Article
+%A Tu, W.
+%A Xiong, Q.
+%A Qiu, X.
+%A Zhang, Y.
+%D 2021
+%T Dynamics of invasive alien plant species in China under climate change scenarios
+%B Ecological Indicators
+%V 129
+%9 Article
+%! Dynamics of invasive alien plant species in China under climate change scenarios
+%O Ecol. Indic.
+%@ 1470160X (ISSN)
+%R 10.1016/j.ecolind.2021.107919
+%] 107919
+%K Climate change
+Core distribution
+Driving factors
+Ecological niche modelling
+Invasive alien plant species
+Shared socio-economic pathways
+Biodiversity
+Climate models
+Conservation
+Dynamics
+Population distribution
+Population statistics
+Alien plants
+Climate change scenarios
+Ecological niche modeling
+Invasive plants
+Plant species
+Rapid response
+Shared socio-economic pathway
+Ecosystems
+Adenophora
+Ageratina adenophora
+Alternanthera philoxeroides
+Ambrosia artemisiifolia
+Mikania micrantha
+%X The distribution dynamics of invasive alien plants is the fundamental information for early detection and rapid response (EDRR) to these species in a new habitat. Based on the field survey data and online databases, the present research work utilized Maximum Entropy model (Maxent) to simulate the distribution dynamics of four invasive plants Ageratina adenophora (Spreng.) R. M. King et H. Rob., Alternanthera philoxeroides (Mart.) Griseb., Ambrosia artemisiifolia L. and Mikania micrantha Kunth in China, under current and future climate (2041–2060, 2061–2080, 2081–2100) in two shared socio-economic pathways (SSPs: SSP 245 and 585) of the newly released coupled model intercomparison project phase6 (CMIP6). All the suitable habitat areas of these plants will significantly expand in the future, but at different expansion levels. M. micrantha will have the largest distribution area (increase by 61–120%), while A. adenophora will expand by 7–33%, A. philoxeroides by 12–74%, and A. artemisiifolia by 8–27%, respectively. Additionally, the habitat centers of the four species will shift to north, i.e., A. philoxeroides, A. artemisiifolia and M. micrantha to northwest, and A. adenophora to northeast, except that the core distributions of A. adenophora and A. artemisiifolia will move to southwest under one certain environment scenario (SSP 245 in the period of 2061–2080). Compared to aspect index and slope topographical variables, the population density, temperature, and precipitation are found to be more important variables in describing the distribution of these plants. The dynamics of habitats of these four species and the correlating driver factors proposed in this work provide essential insights into future spatial management of invasive plants and biodiversity conservation in China, which is, not only human activities should be regulated and the migration of invasive species be reduced, but also the monitoring of high-risk areas should be strengthened in order to ensure effective EDRR. © 2021 The Author(s)
+%Z Cited By :2
+Export Date: 9 June 2022
+Correspondence Address: Zhang, Y.No. 9, Section 4, South Renmin Road, China; email: zhangym@cib.ac.cn
+%U https://www.scopus.com/inward/record.uri?eid=2-s2.0-85108805684&doi=10.1016%2fj.ecolind.2021.107919&partnerID=40&md5=6fd0df7448ab4537a367bc3ecadffe6c
+%+ China-Croatia ‘Belt and Road’ Joint Laboratory on Biodiversity and Ecosystem Services, Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu, 610041, China
+University of Chinese Academy of Sciences, Beijing, 100049, China
+%~ Scopus
+%G English
+
+%0 Journal Article
+%A Vinogradova, Yulia
+%A Pergl, Jan
+%A Essl, Franz
+%A Hejda, Martin
+%A van Kleunen, Mark
+%A Pysek, Petr
+%A Regional, Contributors
+%D 2018
+%T Invasive alien plants of Russia: insights from regional inventories
+%B Biological Invasions
+%V 20
+%N 8
+%P 1931-1943
+%! Invasive alien plants of Russia: insights from regional inventories
+%@ 1387-3547(print), 1573-1464(electronic)
+%R http://dx.doi.org/10.1007/s10530-018-1686-3
+%K Europe
+Palearctic region
+Russia
+Asia
+Climatology
+Environmental Sciences
+Biogeography
+Population Studies
+Biodiversity
+Common
+Hominidae
+Social biology and human ecology
+Ecology: environmental biology - General and methods
+Ecology: environmental biology - Bioclimatology and biometeorology
+Primates
+Mammalia
+Vertebrata
+Chordata
+Animalia
+Animals
+Chordates
+Humans
+Mammals
+Vertebrates
+%X Recent research on plant invasions indicates that some parts of the world are understudied with temperate Asia among them. To contribute towards closing this gap, we provide a standardized list of invasive alien plant species with their distributions in 45 Russian regions, and relate the variation in their richness to climate, socioeconomic parameters and human influence. In total, we report 354 invasive alien species. There are, on average, 27 +/- 17 (mean +/- SD) invasive plants per region, and the invasive species richness varies from zero in Karelia to 71 in Kaluga. In the European part of Russia, there are 277 invasive species in total, in Siberia 70, and in the Far East 79. The most widespread invaders are, in terms of the number of regions from which they are reported, Acer negundo, Echinocystis lobata (recorded in 34 regions), Erigeron canadensis and Elodea canadensis (recorded in 30 regions). Most invasive species in Russia originate from other parts of temperate Asia and Europe. There were significant differences in the representation of life forms between the European, Siberian and Far East biogeographical regions, with perennials being over-represented in the Far East, and shrubs in the European part of Russia. The richness of invasive species can be explained by climatic factors, human population density and the percentage of urban population in a region. This publication and the associated dataset is the first comprehensive treatment of the invasive flora of Russia using standardized criteria and covering 83% of the territory of this country.
+%Z [Author]
+[Author, Reprint Author; E-mail: pergl@ibot.cas.cz]
+%U http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=biop44&NEWS=N&AN=PREV201800627915
+
+%0 Journal Article
+%A Ward, B. G.
+%A Henzell, R. F.
+%D 2004
+%T Use of herbicidal gels on woody weeds
+%B DOC Science Internal Series
+%N 162
+%P 21-pp
+%! Use of herbicidal gels on woody weeds
+%@ 1175-6519
+0-478-22549-0 (hardback)
+%K chemical control
+herbicides
+trees
+weed control
+weeds
+willows
+woody plants
+woody weeds
+%X This report covers the final group of a series of trials investigating the use of herbicidal gels to selectively control a range of environmental weeds growing in Department of Conservation (DOC) reserves in the North and South Islands of New Zealand and Stewart Island. These trials were set up in early 2000 and assessed at one and two years after treatment. We have investigated a range of application systems to control juvenile and mature trees of (1) Darwin's barberry (Berberis darwinii) in Stewart Island, (2) cotoneaster (Cotoneaster simonsii) in Southland, and (3) grey willow (Salix cinerea) in wetlands near Lake Taupo. Control methods included: (1) applying gel from a bottle on to cut stems; (2) cutting wedges in tree trunks with a pruning saw or axe and applying gel to the wedge; and (3) drilling holes at intervals around the trunk into which herbicide is injected. In a pilot-scale residue study, involving cut-stem and whole-tree treatments of glyphosate or picloram gel to grey willow growing in static water at the Whangamarino wetlands, traces of residues were detected around treated trees and saplings at two to nine weeks after treatment, but levels of residues decreased to nil by 24 weeks after treatment, except in one instance. This information has been used to develop guidelines for DOC staff on how to use herbicidal gel technologies effectively in the field; these are given in the appendix.
+%+ Wellington
+%G English
+
+%0 Journal Article
+%A Yilar, M.
+%A Bayar, Y.
+%A Akan, K.
+%D 2021
+%T Determination of the prevalence and densities of weeds in the chickpea production areas of Kirsehir province
+%B Kirsehir ili nohut uretim alanlarinda gorulen yabanci otlarin yayginlik ve yogunluklarinin belirlenmesi.
+%V 24
+%N 2
+%P 83-90
+%! Determination of the prevalence and densities of weeds in the chickpea production areas of Kirsehir province
+%@ 1303-6491
+%K weeds
+chickpeas
+annuals
+perennials
+barley
+population density
+%X Approximately 12% of Turkey's chickpea (Cicer arietinum L.) production has occurred in Kirsehir. Due to abiotic and biotic factors that can be experienced in chickpea production, different levels of yield and quality losses can be happened. One of the important biotic stress factors affecting chickpea production is weeds. This study was carried out as a survey study in order to determine the types of weeds seen in the chickpea production areas of Kirsehir province in 2021 and to determine their densities and prevalence in the production areas. This study was conducted as field observations in 57 randomly selected production areas to represent the Kirsehir chickpea production areas. In this study, 64 weed species included in 25 different families were determined. According to our records, 32 species were annual, 5 of them biennial, 18 of them were perennial, 4 of them were annual or biennial, 3 of them were annual or perennial, 1 of them was biennial or monocarpic and 1 of them was parasitic. The average weed density in the study area was determined as 10.19 pieces/m2. Average weed species density per unit area (number/m2), respectively; Hordeum vulgare L. (2.46), Avena fatua L. (1.41), Convolvulus arvensis L. (1.29), Cirsium arvense (L.) Scop. (0.58). The frequency of occurrence in the examined areas, respectively; Avena fatua L. (61.40%), Convolvulus arvensis L. (52.63%), Chenepodium album L. (47.36%), Salsola kali L. (29.82%), Cirsium arvense (L.) Scope. (28.07%), Polygonum aviculare L. (26.31%), Chrozophora tinctoria L. (22.8%), Chondrilla juncea L. (21.5%), and Boreava orientalis Jaub.Et Spach. (21.5%) was determined. As a result, it is considered primarily necessary to control the species that are commonly identified in chickpea production areas.
+%U https://dergipark.org.tr/en/pub/tjws/issue/67412/1009636
+%+ Tokat
+%G Turkish
+
+%0 Journal Article
+%A Zima, D.
+%A Stefanic, E.
+%D 2018
+%T Analysis of melliferous invasive plants of Pozega valley
+%B Analiza medonosnosti invazivnih biljnih vrsta Pozeske kotline.
+%P 91-95
+%& 53. hrvatski i 13. medunarodni simpozij agronoma 18. do 23. veljahacek~e 2018, Vodice, Hrvatska.
+%! Analysis of melliferous invasive plants of Pozega valley
+%K invasive species
+Jerusalem artichokes
+weeds
+%X Knowing the melliferous plants and their habitats are very important because it can serve for finding a new possibilities in exploitation a bee forages. The goal of this paper is to analyze melliferous invasive plants in Pozega valley. According to investigation in this area there are 34 invasive plant species of which 20 (58%) are melliferous, particularly Abutilon theophrasti Medic, Acer negundo L., Ailanthus altissima (Mill) Sw, Amorpha fruticosa L, Asclepias syriaca L., Conyza canadensis L. Cronquist, Helianthus tuberosus L., Robinia pseudoacacia L. and Solidago canadensis L. Beekeepers should be very careful with spreading of this plants, and should think about if the advantage they can have with these species are more important than preserving the biodiversity on beekeeping area.
+%+ Osijek
+%G Croatian
+
