@@ -20,7 +20,7 @@ weed_list_abr2 <-  paste0(substr(weed_list, 1, 1), " ",sub("^\\S+\\s+", '', weed
 
 #makes the string for Scopus query
 QueryList <-
-  paste0("TITLE-ABS-KEY(weed* OR invasi*) AND TITLE-ABS-KEY({", weed_list, "} OR {", weed_list_abr, "} OR {", weed_list_abr2, "})")
+  paste0("TITLE-ABS-KEY(weed*  OR  invasi* OR {introduced species}  OR  {invasive species}  OR  {invasive organisms}  OR  {alien invasive species}  OR  {invasive alien species}  OR  {weed control}) AND TITLE-ABS-KEY({", weed_list, "} OR {", weed_list_abr, "} OR {", weed_list_abr2, "})")
 
 #queries one of the species in list
 # weed_query <- rscopus::scopus_search(QueryList[2], view = "COMPLETE")
