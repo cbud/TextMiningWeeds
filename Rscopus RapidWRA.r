@@ -9,6 +9,7 @@ library(tidyverse)
 # Import and reformat Scopus data -----------------------------------------
 
 set_api_key("d2dcc4a928a10f0d9184f6ced6473c3c")
+hdr<-inst_token_header("272404b5b445f8a89b33cda259416973" )  
                  
 #create list of weeds to search
 weed_list <- c("Lolium perenne", "Arundo donax")
@@ -31,7 +32,7 @@ QueryList <-
 #queries each species in list and adds to data table
 for (i in 1:length(weed_list)) {
   weed_query <-
-    rscopus::scopus_search(QueryList[i], view = "COMPLETE")
+    rscopus::scopus_search(QueryList[i], view = "COMPLETE", headers = hdr)
   weed_data_raw <- gen_entries_to_df(weed_query$entries)
   species_papers<-weed_data_raw$df
   species_papers$weed_searched<- weed_list[i]
