@@ -24,7 +24,7 @@ set_api_key("d2dcc4a928a10f0d9184f6ced6473c3c" )
 
 
 
-weed_list<-c("A donax", "A riparia", "Avena fatua")
+weed_list<-c("Arundo donax", "Ageratina riparia", "Avena fatua")
 
 #Makes a list of queries for each species.
 
