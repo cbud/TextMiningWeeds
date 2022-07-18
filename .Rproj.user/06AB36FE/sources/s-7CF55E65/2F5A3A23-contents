@@ -1,0 +1,4 @@
+install.packages("syn")
+library(syn)
+
+

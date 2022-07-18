@@ -1,0 +1,23 @@
+#Chris Buddenhagen 2022-07-14
+#Bibliometric analysis
+
+#Vignette source information: https://www.bibliometrix.org/vignettes/Introduction_to_bibliometrix.html #see also package help
+
+# Load packages
+library(bib2df)
+library(bibliometrix)
+library(tidyverse)
+library(rscopus)
+
+#Not synching large files on github
+dir()
+# [1] "Large Data Files"      "Outputs"               "README.md"             "Small Data Files"     
+# [5] "TextMiningWeeds.Rproj" "Weed_text_mining.r"  
+
+path2file<-"Small Data Files/Good weed references.bib"
+
+#Note it looks like it is better to download from one recognized source through an API for bibliometrix package
+
+#GW<-convert2df(path2file, dbsource = "scopus", format = "endnote")
+GW<-bib2df(path2file, separate_names = TRUE)
+results <- biblioAnalysis(GW, sep = ";")
