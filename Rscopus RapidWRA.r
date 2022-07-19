@@ -36,7 +36,8 @@ for (i in 1:length(weed_list)) {
   weed_data_raw <- gen_entries_to_df(weed_query$entries)
   species_papers<-weed_data_raw$df
   species_papers$weed_searched<- weed_list[i]
-  if (exists("weed_papers") == F) {
+  if (i == 1) {
+#  if (exists("weed_papers") == F) {
    weed_papers <- species_papers
   }
   else{
