@@ -112,4 +112,3 @@ a
 paste(nrow(missed_bad), "missed bad papers")
 paste(nrow(excluded_good), "excluded good papers")
 
-write_csv(weed_papers, "weeds_paper.csv")
