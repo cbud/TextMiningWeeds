@@ -26,19 +26,26 @@ library(rscopus)
 
 
 #import data
-good_papers<- bib2df("Small Data Files/Good weed references.bib", separate_names = TRUE)
-bad_papers<- bib2df("Small Data Files/Some problem reference examples.bib", separate_names = TRUE)
+good_papers<- bib2df("Small Data Files/Good weed references.bib", separate_names = TRUE)%>%
+  mutate(status="good") 
+bad_papers<- bib2df("Small Data Files/Some problem reference examples.bib", separate_names = TRUE)%>% 
+  mutate(status="bad") 
 before_clean <- bind_rows(good_papers, bad_papers)
                          
 
 #adds lowercase title, abstract, and keywords to new column 
-before_clean$combined <- paste(tolower(before_clean$TITLE), tolower(before_clean$ABSTRACT), tolower(before_clean$KEYWORDS))
+before_clean$combined <- paste(tolower(before_clean$TITLE), tolower(before_clean$ABSTRACT), tolower(before_clean$KEYWORDS), tolower(before_clean$JOURNAL), (before_clean$BOOKTITLE), (before_clean$CHAPTER))
+before_clean$TITLE <- before_clean$TITLE %>% str_replace_all(., "[[:punct:]]", "")
+good_papers$TITLE <- good_papers$TITLE %>% str_replace_all(., "[[:punct:]]", "")
 
 #remove duplicates
 cleaning<-before_clean %>%
   distinct(paste(tolower(TITLE)), .keep_all=TRUE) %>% 
   select(-"paste(tolower(TITLE))") %>% #remove temporary column
   mutate(keep="good") #create keep column
+
+#remove duplicates another way
+#removed_weeds<- filter(before_clean,duplicated(paste(tolower(before_clean$TITLE)))) %>% mutate(keep="duplicate")
 
 #add duplicates back in, with keep = duplicate
 cleaning<- before_clean %>% left_join(cleaning, by = names(.))
@@ -48,34 +55,61 @@ cleaning$keep[is.na(cleaning$keep)] <- "duplicate"
 remove_word <- function(input) {
   for (i in 1:length(input)) {
     removed <- cleaning[grep(input[i], cleaning$combined), ]  #subset rows based on input word
-    
-    removed <- removed %>%
+
+    removed <- removed %>% #filter(keep!="duplicate") %>%
       mutate(keep = paste0(ifelse(keep == "good", "", paste0(keep, ", ")), input[i])) #replace keep with input word + any other exclusion words
-    
+
     cleaning <-
       cleaning %>% anti_join(removed, by = "TITLE") %>% full_join(removed, by = names(.)) #adds subset rows back onto main weed paper list
   }
   return(cleaning)
-}            
+}
+
+#test
+# after_clean<-remove_word(list("insect pests", "medicin", "medical", "cancer",  "carnivore", "domesticated", "folk", "herbal", "essential oils"))
+# 
+# to_add <- cleaning[grep("weeds", cleaning$combined), ]  #subset rows based on input word
+# to_add 
+# to_add <- to_add %>% filter(keep!="good")%>%
+#   mutate(keep = "ok") #replace keep with input word + any other exclusion words
+# to_add
+# after_clean <-
+#   #to_add %>% anti_join(to_add, by = "TITLE") %>% full_join(to_add, by = names(.)) #adds subset rows back onto main weed paper list
+# after_clean %>% anti_join(to_add, by = c("TITLE")) %>% full_join(to_add, by = c("TITLE","keep"))
+
+
+keep_words <- function(input) {
+  for (i in 1:length(input)) {
+    to_add <- cleaning[grep(input[i], tolower(cleaning$JOURNAL)), ]  #subset rows based on input word
+    
+    to_add <- to_add %>% filter(!(grepl("duplicate",keep))) %>%
+      mutate(keep = "include") #replace keep with input word + any other exclusion words
+
+    after_clean <-
+      after_clean %>% anti_join(to_add, by = "TITLE") %>% full_join(to_add, by = names(.)) #adds subset rows back onto main weed paper list
+  }
+  return(after_clean)
+}
 
 #uses the function to remove papers that contain any of the input words. You can run this bit separately with different terms.
-after_clean<-remove_word(list("insect pests", "cover crop", "medicine",
-                              "food", "carnivore", "domesticated", "wild animal"))
+
+after_clean<-remove_word(list("insect pest", "breeding","pests", "wildlife","medicin", "cover crop","medical", "cancer",  "carnivore", "domesticated", "folk", "herbal", "essential oils"))
+after_clean<-keep_words(list("weed"))
 
 #possible others: folk, chemistry, herbal, essential oils
 
 #calculates erroneous removals
-missed_bad <- after_clean %>% filter(keep=="good") %>% anti_join(good_papers)
-excluded_good <- after_clean %>% filter(keep!="good") %>% merge(good_papers)
+missed_bad <- after_clean %>% filter(keep=="good" | keep=="include") %>% anti_join(good_papers)
+excluded_good <- after_clean %>% filter(keep!="good" & keep!="include") %>% merge(good_papers)
 
 #shows summary of papers excluded
-after_clean%>% 
+a <- after_clean%>% 
   group_by(keep) %>%
   summarise(n()) %>% 
   arrange(-.[2]) #arrange by 2nd column, descending
-
-
+sum(a$`n()`)
+a
 paste(nrow(missed_bad), "missed bad papers")
 paste(nrow(excluded_good), "excluded good papers")
 
-
+write_csv(weed_papers, "weeds_paper.csv")
