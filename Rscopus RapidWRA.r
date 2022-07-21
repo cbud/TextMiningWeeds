@@ -1,3 +1,7 @@
+#this script queries the scopus database for papers mentioning the species in the weed list in section 1
+#to try different cleaning words, change terms in section 2b then rerun sections 2b and 3
+
+
 #rscopus API key 	d2dcc4a928a10f0d9184f6ced6473c3c
 
 #https://aurelien-goutsmedt.com/post/extracting-biblio-data-1/
@@ -7,11 +11,14 @@ library(bibliometrix)
 library(tidyverse)
 library(tictoc)
 
-# Import and reformat Scopus data -----------------------------------------
+# Section 1. Import and reformat Scopus data -----------------------------------------
 
 set_api_key("d2dcc4a928a10f0d9184f6ced6473c3c")
-hdr<-inst_token_header("272404b5b445f8a89b33cda259416973" )  
-tic()                 
+hdr<-inst_token_header("272404b5b445f8a89b33cda259416973" )
+
+#starts run time timer
+tic()
+
 #create list of weeds to search
 weed_list <- c("Cirsium vulgare", "Chenopdium album")
 
@@ -38,16 +45,17 @@ for (i in 1:length(weed_list)) {
   species_papers<-weed_data_raw$df
   species_papers$weed_searched<- weed_list[i]
   if (i == 1) {
-#  if (exists("weed_papers") == F) {
-   weed_papers_raw <- species_papers
+    #  if (exists("weed_papers") == F) {
+    weed_papers_raw <- species_papers
   }
   else{
-   weed_papers_raw <- bind_rows(weed_papers_raw, species_papers)
+    weed_papers_raw <- bind_rows(weed_papers_raw, species_papers)
   }
 }
 
 #removes temp object
 rm("species_papers")
+
 
 #remove special characters from column names
 names(weed_papers_raw) <- names(weed_papers_raw) %>% 
@@ -68,10 +76,10 @@ weed_papers$title <- weed_papers$title %>% str_replace_all(., "[[:punct:]]", "")
 weed_papers$combined <- paste(weed_papers$title, tolower(weed_papers$description), tolower(weed_papers$authkeywords), tolower(weed_papers$publicationName))
 
 #creates status column
-weed_papers<- weed_papers %>% mutate(status="neutral", reason=NA)
+weed_papers<- weed_papers %>% mutate(status="neutral", reason="")
 
 
-# Clean data -----------------------------------------
+# Section 2a. Clean data -----------------------------------------
 
 #adds duplicates to removed_papers
 removed_papers<- 
@@ -90,12 +98,12 @@ keep_words <- function(input) {
   for (i in 1:length(input)) {
     weed_papers <-
       weed_papers %>%
-      mutate(status = ifelse((grepl(input[i], title)) == TRUE, "good", status)) %>%
-      mutate(reason = ifelse(
+      mutate(status = ifelse((grepl(input[i], tolower(publicationName))) == TRUE, "good", status)) %>%
+      mutate(reason = paste0(ifelse(
         status == "good",
-        ifelse(is.na(reason) == TRUE, input[i], paste0(reason, ", ", input[i])),
+        paste0(ifelse(reason=="", input[i], paste0(reason, ", ", input[i])), " journal"),
         reason
-      ))
+      )))
   }
   return(weed_papers)
 }
@@ -105,38 +113,59 @@ keep_words <- function(input) {
 #create function to remove papers with certain words in the combined column
 remove_word <- function(input) {
   for (i in 1:length(input)) {
-
+    
     to_remove <-
       weed_papers %>% 
       filter(.,grepl(input[i],combined) & status != "good") %>% 
       mutate(status = "bad", reason = paste(input[i]))
-
+    
     removed_papers <<- bind_rows(removed_papers,to_remove)
-
-      weed_papers <- 
-        weed_papers %>% 
-        filter(!(grepl(input[i],combined)& status != "good"))
+    
+    weed_papers <- 
+      weed_papers %>% 
+      filter(!(grepl(input[i],combined)& status != "good"))
     
   }
   return(weed_papers)
 }
 
 
-#runs functions with input words as list of characters
+# Section 2b. clean data cont. ----------------------------------------------------------
 
-weed_papers<-keep_words(list("herbicide"))
+#runs function to keep papers with these words in the Journal name
+weed_papers<-keep_words(list("weed"))
 
-weed_papers<-remove_word(list("insect pest", "breeding","pests", "wildlife","medicin", "cover crop","medical", "cancer",  "carnivore", "domesticated", "folk", "herbal", "essential oils"))
+#runs function to exclude papers with these words anywhere
+weed_papers<-remove_word(list("insect pest", "breeding","pests", "wildlife","medicin","medical", "cancer",  "carnivore", "domesticated", "folk", "herbal", "essential oils"))
 
-# Output -----------------------------------------
-weed_papers_raw %>% 
-  group_by(weed_searched) %>% 
+# Section 3 Output -----------------------------------------
+
+#creates summary of kept papers by counting them, grouped by status and reason
+kept_summary<- weed_papers %>% 
+  group_by(status, reason) %>% 
   summarise(n()) 
 
-weed_papers %>% 
-  group_by(weed_searched) %>% 
+
+#renames summary columns
+names(kept_summary) <- c("kept papers", "reason", "count")
+
+#workaround that removes quotation marks that appeared in the reason column
+kept_summary<-kept_summary %>% mutate(reason=noquote(reason))
+
+#creates summary of removed papers by counting them, grouped by status and reason
+removed_summary <- removed_papers %>% 
+  group_by(status, reason) %>% 
   summarise(n())
 
+#renames summary columns
+names(removed_summary) <- c("removed papers", "reason", "count")
+
+
+#display results
+removed_summary
+kept_summary
+
+#displays run time
 toc()
 
 #res = author_df(last_name = "Buddenhagen", first_name = "C", verbose = TRUE, general = FALSE)
