@@ -9,7 +9,7 @@ library(tidyverse)
 # Import and reformat Scopus data -----------------------------------------
 
 set_api_key("d2dcc4a928a10f0d9184f6ced6473c3c")
-hdr<-inst_token_header("272404b5b445f8a89b33cda259416973" )  
+hdr<-inst_token_header("272404b5b445f8a89b33cda259416973")  
                  
 #create list of weeds to search
 weed_list <- c("Lolium perenne", "Arundo donax")
@@ -21,7 +21,7 @@ weed_list_abr2 <-  paste0(substr(weed_list, 1, 1), " ",sub("^\\S+\\s+", '', weed
 #makes the string for Scopus query
 QueryList <-
   paste0("TITLE-ABS-KEY(weed* OR invasi*) AND TITLE-ABS-KEY({", weed_list, "} OR {", weed_list_abr, "} OR {", weed_list_abr2, "})")
-
+QueryList
 #queries one of the species in list
 # weed_query <- rscopus::scopus_search(QueryList[2], view = "COMPLETE")
 # weed_data_raw <- gen_entries_to_df(weed_query$entries)
