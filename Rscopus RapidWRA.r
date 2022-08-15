@@ -5,7 +5,8 @@
 #rscopus API key 	d2dcc4a928a10f0d9184f6ced6473c3c
 
 #https://aurelien-goutsmedt.com/post/extracting-biblio-data-1/
-#
+
+library(bib2df)
 library(rscopus)
 library(bibliometrix)
 library(tidyverse)
@@ -30,12 +31,19 @@ weed_list_abr2 <-  paste0(substr(weed_list, 1, 1), " ",sub("^\\S+\\s+", '', weed
 QueryList <-
   paste0("TITLE-ABS-KEY(weed*  OR  invasi* OR {introduced species}  OR  {invasive species}  OR  {invasive organisms}  OR  {alien invasive species}  OR  {invasive alien species}  OR  {weed control}) AND TITLE-ABS-KEY({", weed_list, "} OR {", weed_list_abr, "} OR {", weed_list_abr2, "})")
 
-#queries one of the species in list
-# weed_query <- rscopus::scopus_search(QueryList[2], view = "COMPLETE")
+# #queries one of the species in list
+# weed_query <- rscopus::scopus_search(QueryList[2], view = "COMPLETE", headers = hdr)
 # weed_data_raw <- gen_entries_to_df(weed_query$entries)
 # weed_papers <- weed_data_raw$df
-# weed_affiliations <- weed_data_raw$affiliation
-# weed_authors <- weed_data_raw$author
+# 
+# res2 = bibtex_core_data(weed_query)
+# 
+# 
+# weed_query
+# bibtex_core_data(weed_query)
+# weed_papers_test<-convert2df(weed_query, dbsource = "scopus", format = "bibtex")
+# # weed_affiliations <- weed_data_raw$affiliation
+# # weed_authors <- weed_data_raw$author
 
 #queries each species in list and adds to data table
 for (i in 1:length(weed_list)) {
@@ -55,7 +63,6 @@ for (i in 1:length(weed_list)) {
 
 #removes temp object
 rm("species_papers")
-
 
 #remove special characters from column names
 names(weed_papers_raw) <- names(weed_papers_raw) %>% 
@@ -168,7 +175,15 @@ kept_summary
 #displays run time
 toc()
 
-#res = author_df(last_name = "Buddenhagen", first_name = "C", verbose = TRUE, general = FALSE)
+
+#export to bibtext (doesnt work)
+# drop <- c("STATUS", "REASON", "COMBINED", "WEED_SEARCHED")
+# weed_papers_2 = weed_papers[,!(names(weed_papers) %in% drop)]
+# 
+# df2bib(weed_papers_2, file = "test.bib", append = FALSE)
+
+
+
 
 # weed_data_raw <- gen_entries_to_df(weed_query$entries)
 # weed_papers <- weed_data_raw$df
