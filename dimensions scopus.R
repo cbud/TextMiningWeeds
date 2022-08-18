@@ -20,11 +20,11 @@ hdr<-inst_token_header("272404b5b445f8a89b33cda259416973" )
 
 
 
-weed_list <- read_excel("Small Data Files/gbif_all_synonyms_with_occurrence_counts_282_weeds_20220311.xlsx")
-weed_list <- weed_list$`Row Labels`
+#weed_list <- read_excel("Small Data Files/gbif_all_synonyms_with_occurrence_counts_282_weeds_20220311.xlsx")
+#weed_list <- weed_list$`Row Labels`
 
 #create list of weeds to search
-#weed_list <- c("Cirsium vulgare", "Cuscuta campestris")
+weed_list <- c("Cirsium vulgare", "Cuscuta campestris", "Poa annua", "Lolium perenne")
 
 
 #create lists of abbreviated names
@@ -33,7 +33,7 @@ weed_list_abr2 <-  paste0(substr(weed_list, 1, 1), " ",sub("^\\S+\\s+", '', weed
 
 #creates the query string for dimensions
 
-dimensions_query <- paste0("search publications in title_abstract_only for \"(\\\"weed\\\"OR\\\"invasi*\\\"OR\\\"introduced species\\\"OR\\\"invasive species\\\"OR\\\"invasive organisms\\\"OR\\\"alien invasive species\\\"OR\\\"invasive alien species\\\"OR\\\"weed control\\\")AND(\\\"",weed_list,"\\\"OR\\\"",weed_list_abr,"\\\"OR\\\"",weed_list_abr2,"\\\")\" where year in [ 1900 : 2022 ] and type in [ \"article\" ] return publications[type + basics + extras + authors + concepts + abstract]")
+dimensions_query <- paste0("search publications for \"(\\\"weed\\\"OR\\\"invasi*\\\"OR\\\"introduced species\\\"OR\\\"invasive species\\\"OR\\\"invasive organisms\\\"OR\\\"alien invasive species\\\"OR\\\"invasive alien species\\\"OR\\\"weed control\\\")AND(\\\"",weed_list,"\\\"OR\\\"",weed_list_abr,"\\\"OR\\\"",weed_list_abr2,"\\\")\" where year in [ 1900 : 2022 ] and type in [ \"article\" ] return publications[type + basics + extras + authors + abstract + concepts_scores]")
 
 #queries each species in list and adds to data table
 for (i in 1:length(weed_list)) {
@@ -155,11 +155,11 @@ remove_words <- function(input) {
 # Section 2b. clean data cont. ----------------------------------------------------------
 
 #runs function to keep papers with these words in the Journal name
-papers<-keep_words(list("weed"))
+papers<-keep_words(list("weed", "invasions", "invasive plant", "invasive"))
 
 #runs function to exclude papers with these words anywhere
 
-papers<-remove_words(list("cover crop performance", "insect pest", "pests","breeding","pests","medicin","medical", "cancer",  "carnivore", "domesticated", "folk", "herbal", "essential oils", "cm soil", "soil organic matter"))
+papers<-remove_words(list("cover crop performance", "insect pest", "pests","breeding","pests","medicin","medical", "cancer",  "carnivore", "domesticated", "folk", "herbal", "essential oils", "cm soil", "soil organic matter", "cultivar", "honey"))
 
 
 # Section 3 Output -----------------------------------------
@@ -189,8 +189,9 @@ removed_summary <- removed_papers %>%
 names(removed_summary) <- c("removed papers", "reason", "count")
 
 removed_summary
+kept_summary
 
 count_weeds<- count(papers, weed_searched)
-
+count_weeds
 #displays run time
 toc()

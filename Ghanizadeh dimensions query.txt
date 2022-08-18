@@ -1,0 +1,125 @@
+MAIN INFORMATION ABOUT DATA
+
+ Timespan                              2014 : 2022 
+ Sources (Journals, Books, etc)        24 
+ Documents                             36 
+ Annual Growth Rate %                  34.59 
+ Document Average Age                  2.47 
+ Average citations per doc             9.5 
+ Average citations per year per doc    2.009 
+ References                            0 
+ 
+DOCUMENT TYPES                     
+ article       35 
+ preprint      1 
+ 
+DOCUMENT CONTENTS
+ Keywords Plus (ID)                    1257 
+ Author's Keywords (DE)                1257 
+ 
+AUTHORS
+ Authors                               82 
+ Author Appearances                    194 
+ Authors of single-authored docs       0 
+ 
+AUTHORS COLLABORATION
+ Single-authored docs                  0 
+ Documents per Author                  0.439 
+ Co-Authors per Doc                    5.39 
+ International co-authorships %        36.11 
+ 
+
+Annual Scientific Production
+
+ Year    Articles
+    2014        1
+    2015        2
+    2017        3
+    2018        4
+    2019        7
+    2020        4
+    2021        7
+    2022        8
+
+Annual Percentage Growth Rate 29.68396 
+
+
+Most Productive Authors
+
+   Authors        Articles Authors        Articles Fractionalized
+1  GHANIZADEH H         36 GHANIZADEH H                    10.104
+2  HARRINGTON KC        24 HARRINGTON KC                    8.150
+3  JAMES TK             10 JAMES TK                         2.717
+4  BUDDENHAGEN CE        5 BUDDENHAGEN CE                   0.792
+5  LIU J                 5 BOLAN NS                         0.750
+6  CHEN X                4 LIU J                            0.529
+7  GUO Q                 4 HE L                             0.500
+8  LI W                  4 GUO Q                            0.461
+9  WANG A                4 LI W                             0.461
+10 WEN Z                 4 WEN Z                            0.461
+
+
+Top manuscripts per citations
+
+                                                       Paper                                    DOI TC TCperYear   NTC
+1  GHANIZADEH H, 2017, CRITICAL REVIEWS IN PLANT SCIENCES             10.1080/07352689.2017.1316134 78     13.00 2.035
+2  GHANIZADEH H, 2015, PEST MANAGEMENT SCIENCE                        10.1002/ps.3968               32      4.00 1.255
+3  GHANIZADEH H, 2014, WEED BIOLOGY AND MANAGEMENT                    10.1111/wbm.12041             23      2.56 1.000
+4  GHANIZADEH H, 2019, AGRONOMY-a                                     10.3390/agronomy9080448       21      5.25 1.815
+5  HARRINGTON KC, 2017, CROP PROTECTION                               10.1016/j.cropro.2017.08.009  20      3.33 0.522
+6  GHANIZADEH H, 2015, CROP PROTECTION                                10.1016/j.cropro.2015.08.008  19      2.38 0.745
+7  GHANIZADEH H, 2017, AOB PLANTS                                     10.1093/aobpla/plx035         17      2.83 0.443
+8  GHANIZADEH H, 2019, CRITICAL REVIEWS IN PLANT SCIENCES             10.1080/07352689.2019.1665769 16      4.00 1.383
+9  GHANIZADEH H, 2019, NEW ZEALAND JOURNAL OF AGRICULTURAL RESEARCH   10.1080/00288233.2019.1705863 14      3.50 1.210
+10 GHANIZADEH H, 2019, NEW ZEALAND JOURNAL OF AGRICULTURAL RESEARCH-a 10.1080/00288233.2019.1620296 14      3.50 1.210
+
+
+Corresponding Author's Countries
+
+      Country Articles   Freq SCP MCP MCP_Ratio
+1 NEW ZEALAND       24 0.7500  18   6      0.25
+2 CHINA              7 0.2188   0   7      1.00
+3 IRAN               1 0.0312   1   0      0.00
+
+
+SCP: Single Country Publications
+
+MCP: Multiple Country Publications
+
+
+Total Citations per Country
+
+  Country      Total Citations Average Article Citations
+1  NEW ZEALAND             277                     11.54
+2  IRAN                     23                     23.00
+3  CHINA                    13                      1.86
+
+
+Most Relevant Sources
+
+                                 Sources        Articles
+1  NEW ZEALAND JOURNAL OF AGRICULTURAL RESEARCH        4
+2  CROP PROTECTION                                     3
+3  PEST MANAGEMENT SCIENCE                             3
+4  PLOS ONE                                            3
+5  AGRONOMY                                            2
+6  CRITICAL REVIEWS IN PLANT SCIENCES                  2
+7  NEW ZEALAND PLANT PROTECTION                        2
+8  AOB PLANTS                                          1
+9  ECOLOGICAL INDICATORS                               1
+10 ENVIRONMENTAL POLLUTION                             1
+
+
+Most Relevant Keywords
+
+   Author Keywords (DE)      Articles Keywords-Plus (ID)     Articles
+1                STUDY             23            STUDY             23
+2                RESULTS           21            RESULTS           21
+3                HERBICIDES        19            HERBICIDES        19
+4                RESISTANCE        18            RESISTANCE        18
+5                PLANTS            15            PLANTS            15
+6                SPECIES           15            SPECIES           15
+7                WEEDS             15            WEEDS             15
+8                POPULATION        13            POPULATION        13
+9                MECHANISM         12            MECHANISM         12
+10               NEW ZEALAND       10            NEW ZEALAND       10
